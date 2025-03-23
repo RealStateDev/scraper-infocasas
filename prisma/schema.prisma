@@ -52,6 +52,7 @@ model propiedades {
   fecha_entrada         DateTime?   @default(now()) @db.Timestamp(6)
   fecha_modificacion    DateTime?   @default(now()) @db.Timestamp(6)
   favoritos             favoritos[]
+  currency              String?
 }
 
 model propiedades_scraping {
@@ -81,6 +82,7 @@ model propiedades_scraping {
   url                   String?
   fecha_entrada         DateTime? @default(now()) @db.Timestamp(6)
   fecha_scraping        DateTime? @default(now()) @db.Timestamp(6)
+  currency              String?
 }
 
 model scraping_progreso {

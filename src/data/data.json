@@ -1,0 +1,853 @@
+{
+    "props": {
+        "pageProps": {
+            "__PROPERTY__ID__": 192184149,
+            "UrlToBack": -1,
+            "DummyContextInitialState": {
+                "count": 23
+            },
+            "ConfigContextInitialState": {
+                "country_id": "2",
+                "country_name": "Paraguay",
+                "country_capital": "Asunción",
+                "country_capital_id": 21,
+                "country_code": "PY",
+                "site_name": "InfoCasas",
+                "logo": "https://cdn2.infocasas.com.uy/web/5ee3722bdec05_infocdn__logo-infocasas@2x.png",
+                "information_email": "info@infocasas.com.py",
+                "sales_email": "ventas@infocasas.com.py",
+                "main_domain": "www.infocasas.com.py",
+                "phone": "(+595) 981 424 876",
+                "currency": {
+                    "id": "3",
+                    "name": "Gs."
+                },
+                "timezone": "America/Asuncion",
+                "IVA": 0.1,
+                "analytics_id": "UA-42476608-3",
+                "google_tag_manager_id": "GTM-W9H4MK6",
+                "rtb_id": "pr_gPINaM6ddBRWqVEom9Ek",
+                "onesignal_configuration": {
+                    "app_id": "64cb7f6f-27f2-4bc7-8f41-4c5bba405d41"
+                },
+                "facebook_configuration": {
+                    "pixel_id": "1524470481188443"
+                },
+                "pinterest_id": "80b2668bc53e4b2aa212be3c2167c92a",
+                "instagram_client_id": "1266191310102931",
+                "socialMediaLinks": [
+                    {
+                        "slug": "InfoCasas",
+                        "name": "YouTube",
+                        "url": "https://www.youtube.com/channel/UCaKcEtvMsXm5kPi_K-_YHIA",
+                        "icon": "icon-youtube"
+                    },
+                    {
+                        "slug": "InfoCasasPY",
+                        "name": "Instagram",
+                        "url": "https://www.instagram.com/infocasaspy/",
+                        "icon": "icon-instagram"
+                    },
+                    {
+                        "slug": "InfoCasasPY",
+                        "name": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/infocasas",
+                        "icon": "icon-linkedin"
+                    },
+                    {
+                        "slug": "InfoCasasPY",
+                        "name": "Facebook",
+                        "url": "https://www.facebook.com/InfoCasasPY",
+                        "icon": "icon-facebook-1"
+                    }
+                ],
+                "header_links": [
+                    {
+                        "id": "6",
+                        "title": "Venta",
+                        "link": "https://www.infocasas.com.py/venta/inmuebles/asuncion"
+                    },
+                    {
+                        "id": "7",
+                        "title": "Alquiler",
+                        "link": "https://www.infocasas.com.py/alquiler/inmuebles/asuncion"
+                    },
+                    {
+                        "id": "8",
+                        "title": "Proyectos",
+                        "link": "https://www.infocasas.com.py/proyectos"
+                    },
+                    {
+                        "id": "25",
+                        "title": "Inmobiliarias",
+                        "link": "https://www.infocasas.com.py/inmobiliarias"
+                    },
+                    {
+                        "id": "38",
+                        "title": "Noticias",
+                        "link": "https://www.infocasas.com.py/blog/"
+                    },
+                    {
+                        "id": "39",
+                        "title": "HomeFest",
+                        "link": "http://www.homefest.com.py/"
+                    },
+                    {
+                        "id": "54",
+                        "title": "Eventos",
+                        "link": "https://www.infocasas.com.py/eventos"
+                    }
+                ]
+            },
+            "apolloState": {
+                "ROOT_QUERY": {
+                    "__typename": "Query",
+                    "seoMetaTags({\"url\":\"/vendo-amplia-casa-en-san-vicente/192184149\"})": {
+                        "__typename": "SeoMetaTags",
+                        "h1": "VENDO AMPLIA CASA EN SAN VICENTE ",
+                        "title": "VENDO AMPLIA CASA EN SAN VICENTE . Ref #JA5AB4",
+                        "breadcrumbs": [
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "InfoCasas",
+                                "url": "/"
+                            },
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "Venta",
+                                "url": "/venta"
+                            },
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "Casas",
+                                "url": "/venta/casas"
+                            },
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "Asunción",
+                                "url": "/venta/casas/asuncion"
+                            },
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "San Vicente",
+                                "url": "/venta/casas/asuncion/san-vicente"
+                            },
+                            {
+                                "__typename": "BreadCrumb",
+                                "text": "VENDO AMPLIA CASA EN SAN VICENTE ",
+                                "url": "/vendo-amplia-casa-en-san-vicente-/192184149"
+                            }
+                        ],
+                        "url": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                        "description": "VENDO AMPLIA CASA EN SAN VICENTE????1.490.000.000GSUbicación Ideal en el barrio San Vicente, AsuncionDe.... Ref #JA5AB4",
+                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                        "noindex": false,
+                        "canonical": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                        "site_name": "InfoCasas",
+                        "links": {
+                            "Ubicación": [
+                                {
+                                    "text": "Herrera",
+                                    "url": "/venta/casas/asuncion/herrera/3-dormitorios"
+                                },
+                                {
+                                    "text": "Villa Morra",
+                                    "url": "/venta/casas/asuncion/villa-morra/3-dormitorios"
+                                },
+                                {
+                                    "text": "Ycuá Satí",
+                                    "url": "/venta/casas/asuncion/ycua-sati/3-dormitorios"
+                                },
+                                {
+                                    "text": "Ytay",
+                                    "url": "/venta/casas/asuncion/ytay/3-dormitorios"
+                                },
+                                {
+                                    "text": "Cañada del Ybyray",
+                                    "url": "/venta/casas/asuncion/canada-del-ybyray/3-dormitorios"
+                                },
+                                {
+                                    "text": "Las Carmelitas",
+                                    "url": "/venta/casas/asuncion/las-carmelitas/3-dormitorios"
+                                },
+                                {
+                                    "text": "Las Lomas",
+                                    "url": "/venta/casas/asuncion/las-lomas/3-dormitorios"
+                                },
+                                {
+                                    "text": "Manorá",
+                                    "url": "/venta/casas/asuncion/manora/3-dormitorios"
+                                },
+                                {
+                                    "text": "Mburucuyá",
+                                    "url": "/venta/casas/asuncion/mburucuya/3-dormitorios"
+                                },
+                                {
+                                    "text": "Villa Aurelia",
+                                    "url": "/venta/casas/asuncion/villa-aurelia/3-dormitorios"
+                                },
+                                {
+                                    "text": "Terminal",
+                                    "url": "/venta/casas/asuncion/terminal/3-dormitorios"
+                                },
+                                {
+                                    "text": "Asunción",
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios"
+                                },
+                                {
+                                    "text": "Los Laureles",
+                                    "url": "/venta/casas/asuncion/los-laureles/3-dormitorios"
+                                },
+                                {
+                                    "text": "Mcal. Estigarribia",
+                                    "url": "/venta/casas/asuncion/mcal-estigarribia/3-dormitorios"
+                                },
+                                {
+                                    "text": "Nazareth",
+                                    "url": "/venta/casas/asuncion/nazareth/3-dormitorios"
+                                },
+                                {
+                                    "text": "Recoleta",
+                                    "url": "/venta/casas/asuncion/recoleta/3-dormitorios"
+                                },
+                                {
+                                    "text": "San Jorge",
+                                    "url": "/venta/casas/asuncion/san-jorge/3-dormitorios"
+                                },
+                                {
+                                    "text": "San Pablo",
+                                    "url": "/venta/casas/asuncion/san-pablo/3-dormitorios"
+                                },
+                                {
+                                    "text": "Sta. María",
+                                    "url": "/venta/casas/asuncion/sta-maria/3-dormitorios"
+                                }
+                            ],
+                            "Propiedades en barrios cercanos": [
+                                {
+                                    "text": "Virgen del Huerto",
+                                    "url": "/venta/casas/asuncion/virgen-del-huerto/3-dormitorios"
+                                },
+                                {
+                                    "text": "Barrio Jara",
+                                    "url": "/venta/casas/asuncion/barrio-jara/3-dormitorios"
+                                },
+                                {
+                                    "text": "Las Mercedes",
+                                    "url": "/venta/casas/asuncion/las-mercedes/3-dormitorios"
+                                },
+                                {
+                                    "text": "Mburicaó",
+                                    "url": "/venta/casas/asuncion/mburicao/3-dormitorios"
+                                },
+                                {
+                                    "text": "Bernardino Caballero",
+                                    "url": "/venta/casas/asuncion/bernardino-caballero/3-dormitorios"
+                                },
+                                {
+                                    "text": "Ciudad Nueva",
+                                    "url": "/venta/casas/asuncion/ciudad-nueva/3-dormitorios"
+                                },
+                                {
+                                    "text": "Pinozá",
+                                    "url": "/venta/casas/asuncion/pinoza/3-dormitorios"
+                                },
+                                {
+                                    "text": "Vista Alegre",
+                                    "url": "/venta/casas/asuncion/vista-alegre/3-dormitorios"
+                                },
+                                {
+                                    "text": "Pettirossi",
+                                    "url": "/venta/casas/asuncion/pettirossi/3-dormitorios"
+                                },
+                                {
+                                    "text": "San Roque",
+                                    "url": "/venta/casas/asuncion/san-roque/3-dormitorios"
+                                }
+                            ],
+                            "Características": [
+                                {
+                                    "text": "Ofrecida por Dueño",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/dueno"
+                                },
+                                {
+                                    "text": "Lujosos",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/lujosos"
+                                },
+                                {
+                                    "text": "Baratos",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/baratos"
+                                },
+                                {
+                                    "text": "Con garaje",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-garaje"
+                                },
+                                {
+                                    "text": "Con piscina",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-piscina"
+                                },
+                                {
+                                    "text": "Con jardín",
+                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-jardin"
+                                }
+                            ]
+                        },
+                        "text": "VENDO AMPLIA CASA EN SAN VICENTE  es una Casa con 3 dormitorios, 2 baños y 290 m² construida en 2005. San Vicente, Asunción, Paraguay. Se ubica en San Vicente, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por REMAX Primicias el 22 de marzo de 2025. El precio de Venta es de Gs. 1.490.000.000",
+                        "seoLanding": null,
+                        "ios_app_id": null
+                    },
+                    "property({\"id\":192184149})": {
+                        "__ref": "Property:192184149"
+                    },
+                    "bannerShopping": null,
+                    "bannerHeader({\"whereToShow\":\"propiedadesampliar\"})": null,
+                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"\"}})": [],
+                    "countries": [
+                        {
+                            "__ref": "Country:7"
+                        },
+                        {
+                            "__ref": "Country:1"
+                        },
+                        {
+                            "__ref": "Country:2"
+                        },
+                        {
+                            "__ref": "Country:3"
+                        },
+                        {
+                            "__ref": "Country:5"
+                        },
+                        {
+                            "__ref": "Country:4"
+                        },
+                        {
+                            "__ref": "Country:37"
+                        }
+                    ],
+                    "getDynamicIpPopupInfo": [],
+                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"192184149\"}})": [
+                        {
+                            "__ref": "SearchBigData:97100"
+                        }
+                    ]
+                },
+                "Currency:3": {
+                    "__typename": "Currency",
+                    "id": "3",
+                    "name": "Gs.",
+                    "rate": 7270.1
+                },
+                "Subsidiary:159248": {
+                    "__typename": "Subsidiary",
+                    "id": "159248",
+                    "name": "Casa central",
+                    "masked_phone": "+5959",
+                    "address": "Santa Cruz de la Sierra 1791 esquina Jose Marti- Barrio Tembetary",
+                    "office_hours": "08:00 a 18:00 hs."
+                },
+                "RealEstateAgent:173274504": {
+                    "__typename": "RealEstateAgent",
+                    "id": "173274504",
+                    "name": "REMAX Primicias",
+                    "masked_phone": "+5959",
+                    "has_whatsapp": true,
+                    "active": true,
+                    "logo": "https://cdn2.infocasas.com.uy/repo/img/60edca2933bf2_blue-and-white-simple-\u0026-circular-doctor-logo.jpg",
+                    "inmoLink": "/inmobiliarias/perfil/173274504-remax-primicias",
+                    "inmoPropsLink": "/inmobiliaria/remax-primicias/173274504",
+                    "inmofull": true,
+                    "type": "inmobiliaria",
+                    "address": "Santa Cruz de la Sierra 1791 esquina Jose Marti- Barrio Tembetary",
+                    "subsidiaries": [
+                        {
+                            "__ref": "Subsidiary:159248"
+                        }
+                    ]
+                },
+                "Estate:21": {
+                    "__typename": "Estate",
+                    "id": "21",
+                    "name": "Asunción"
+                },
+                "Neighborhood:401": {
+                    "__typename": "Neighborhood",
+                    "id": "401",
+                    "name": "San Vicente",
+                    "estate": {
+                        "__ref": "Estate:21"
+                    },
+                    "lat": -25.3150486,
+                    "long": -57.6240731
+                },
+                "Seller:33016": {
+                    "__typename": "Seller",
+                    "id": "33016",
+                    "individual": null,
+                    "type": null,
+                    "name": "Arianna Villalba ",
+                    "role": "BROKER",
+                    "masked_phone": "+595 "
+                },
+                "PropertyType:1": {
+                    "__typename": "PropertyType",
+                    "id": "1",
+                    "name": "Casa"
+                },
+                "OperationType:1": {
+                    "__typename": "OperationType",
+                    "id": "1",
+                    "name": "Venta"
+                },
+                "PropertyFacility:13": {
+                    "__typename": "PropertyFacility",
+                    "id": "13",
+                    "name": "Parrillero / Barbacoa",
+                    "group": "Confort del apartamento"
+                },
+                "PropertyFacility:27": {
+                    "__typename": "PropertyFacility",
+                    "id": "27",
+                    "name": "Piscina",
+                    "group": "Confort del edificio"
+                },
+                "PropertyFacility:36": {
+                    "__typename": "PropertyFacility",
+                    "id": "36",
+                    "name": "Aire Acondicionado",
+                    "group": "Instalaciones apartamento"
+                },
+                "PropertyFacility:70": {
+                    "__typename": "PropertyFacility",
+                    "id": "70",
+                    "name": "Jardin / Patio",
+                    "group": "Confort de la casa"
+                },
+                "Image:214054206": {
+                    "__typename": "Image",
+                    "id": "214054206",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                    "tag": ""
+                },
+                "Image:214054183": {
+                    "__typename": "Image",
+                    "id": "214054183",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/0bc36900853cbd7ef871e303c48875dda5c67e54.jpeg",
+                    "tag": ""
+                },
+                "Image:214054193": {
+                    "__typename": "Image",
+                    "id": "214054193",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/564e5066d3219a890fbd565616a83a1263ae14ee.jpeg",
+                    "tag": ""
+                },
+                "Image:214054217": {
+                    "__typename": "Image",
+                    "id": "214054217",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/e8830c7d886319101e725ad3fc1ea1ba10ab75f8.jpeg",
+                    "tag": ""
+                },
+                "Image:214054230": {
+                    "__typename": "Image",
+                    "id": "214054230",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/cd31002434547d1aaea4bfe6607d12945e91b98e.jpeg",
+                    "tag": ""
+                },
+                "Property:192184149": {
+                    "__typename": "Property",
+                    "id": "192184149",
+                    "title": "VENDO AMPLIA CASA EN SAN VICENTE ",
+                    "typeID": 1,
+                    "address": "San Vicente, Asunción, Paraguay",
+                    "showAddress": true,
+                    "country_id": 2,
+                    "description": "\u003cp\u003eVENDO AMPLIA CASA EN SAN VICENTE\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e????1.490.000.000GS\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eUbicación Ideal en el barrio San Vicente, Asuncion\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eDescubre esta propiedad perfectamente ubicada en la calle Zorrilla de San Martin c/ Tte. Alcorta.\u003c/p\u003e\u003cp\u003eA 100 mts de la Av. Fernando de la Mora\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eCaracterísticas de esta Propiedad:\u003c/p\u003e\u003cp\u003e????Dimensiones del lote:\u003c/p\u003e\u003cp\u003e*Frente: 21 mts\u003c/p\u003e\u003cp\u003e*Costado: 33mts\u003c/p\u003e\u003cp\u003eSuperficie total: 690m²\u003c/p\u003e\u003cp\u003e????Área construida: 200m²\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e*Sala estar\u003c/p\u003e\u003cp\u003e*Cocina Comedor\u003c/p\u003e\u003cp\u003e*3 habitaciones\u003c/p\u003e\u003cp\u003e*1 baño social/ familiar\u003c/p\u003e\u003cp\u003e*Quincho con parrilla climatizado con vista al patio\u003c/p\u003e\u003cp\u003e*Amplio patio que rodea la propiedad.\u003c/p\u003e\u003cp\u003e*Lavadero.\u003c/p\u003e\u003cp\u003e*Habitación y baño de servicio.\u003c/p\u003e\u003cp\u003e*Piscina con cascada.\u003c/p\u003e\u003cp\u003e*Garaje para 2 vehículos.\u003c/p\u003e\u003cp\u003e*Apto para crédito bancario.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eUbicacion: ***\u003c/p\u003e",
+                    "code": "JA5AB4",
+                    "code2": null,
+                    "finances": true,
+                    "grouped_ids": null,
+                    "img": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                    "price": {
+                        "__typename": "Price",
+                        "amount": 1490000000,
+                        "currency": {
+                            "__ref": "Currency:3"
+                        },
+                        "hidePrice": false
+                    },
+                    "price_amount_usd": 204949,
+                    "owner": {
+                        "__ref": "RealEstateAgent:173274504"
+                    },
+                    "neighborhood": {
+                        "__ref": "Neighborhood:401"
+                    },
+                    "estate": {
+                        "__ref": "Estate:21"
+                    },
+                    "seller": {
+                        "__ref": "Seller:33016"
+                    },
+                    "technicalSheet": [
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "code",
+                            "value": "JA5AB4",
+                            "text": "Referencia"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "property_type_name",
+                            "value": "Casa",
+                            "text": "Tipo de Propiedad"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "neighborhood_name",
+                            "value": "San Vicente",
+                            "text": "Zona"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "construction_state_name",
+                            "value": "Excelente estado",
+                            "text": "Estado"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "disposition_name",
+                            "value": "No aplica",
+                            "text": "Disposición"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "bathrooms",
+                            "value": "2",
+                            "text": "Baños"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "m2Built",
+                            "value": "290 m2",
+                            "text": "M² edificados"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "m2Terrace",
+                            "value": "",
+                            "text": "M² de terraza"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "m2Terrain",
+                            "value": "690 m2",
+                            "text": "M² del terreno"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "constructionYear",
+                            "value": "2005",
+                            "text": "Año de Construcción"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "bedrooms",
+                            "value": "3",
+                            "text": "Dormitorios"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "garage",
+                            "value": "2",
+                            "text": "Garajes"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "story",
+                            "value": "1",
+                            "text": "Plantas"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "over_name",
+                            "value": "",
+                            "text": "Sobre"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "condominio",
+                            "value": "",
+                            "text": "Barrio Privado"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "initialFee",
+                            "value": "",
+                            "text": "Cuota inicial"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "barter",
+                            "value": "",
+                            "text": "Acepta permuta"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "socialHousing",
+                            "value": "Si",
+                            "text": "Vivienda Social"
+                        }
+                    ],
+                    "image_count": 5,
+                    "file_count": 0,
+                    "imgSize": 114858,
+                    "link": "vendo-amplia-casa-en-san-vicente/192184149",
+                    "property_type": {
+                        "__ref": "PropertyType:1"
+                    },
+                    "operation_type": {
+                        "__ref": "OperationType:1"
+                    },
+                    "barter": false,
+                    "facilities": [
+                        {
+                            "__ref": "PropertyFacility:13"
+                        },
+                        {
+                            "__ref": "PropertyFacility:27"
+                        },
+                        {
+                            "__ref": "PropertyFacility:36"
+                        },
+                        {
+                            "__ref": "PropertyFacility:70"
+                        }
+                    ],
+                    "m2": 290,
+                    "hectares": 0,
+                    "created_at": "2025-03-22",
+                    "updated_at": "2025-03-22",
+                    "latitude": -25.3182335,
+                    "images": [
+                        {
+                            "__ref": "Image:214054206"
+                        },
+                        {
+                            "__ref": "Image:214054183"
+                        },
+                        {
+                            "__ref": "Image:214054193"
+                        },
+                        {
+                            "__ref": "Image:214054217"
+                        },
+                        {
+                            "__ref": "Image:214054230"
+                        }
+                    ],
+                    "files": [],
+                    "source": 4,
+                    "project": [],
+                    "color": 3,
+                    "longitude": -57.6207023,
+                    "pausd": false,
+                    "pointType": false,
+                    "zoom": 15,
+                    "youtube": null,
+                    "highlight": 0,
+                    "active": true,
+                    "deleted": false,
+                    "relevance": 74.2079,
+                    "construction_year": "2005",
+                    "notes": "",
+                    "sold": false,
+                    "soldDate": "0000-00-00",
+                    "discount": null,
+                    "draft": false,
+                    "sign": null,
+                    "guarantee": "",
+                    "facilitiesNotApply": false,
+                    "commonExpenses": null,
+                    "price_variation": null,
+                    "ceCurrencyID": null,
+                    "highlightDate": null,
+                    "socialMediaLinks": [
+                        {
+                            "__typename": "SocialMediaLinks",
+                            "slug": "twitter",
+                            "name": "twitter",
+                            "url": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "icon": "icon-twitter",
+                            "order": null
+                        },
+                        {
+                            "__typename": "SocialMediaLinks",
+                            "slug": "linkedin",
+                            "name": "linkedin",
+                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "icon": "icon-linkedin",
+                            "order": null
+                        },
+                        {
+                            "__typename": "SocialMediaLinks",
+                            "slug": "facebook",
+                            "name": "facebook",
+                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "icon": "icon-facebook-1",
+                            "order": null
+                        },
+                        {
+                            "__typename": "SocialMediaLinks",
+                            "slug": "email",
+                            "name": "email",
+                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "icon": "icon-mail",
+                            "order": null
+                        }
+                    ],
+                    "m2Built": 290,
+                    "garage": 2,
+                    "office": false,
+                    "dispositionID": 1,
+                    "bathrooms": 2,
+                    "bedrooms": 3,
+                    "rooms": 4,
+                    "seaview": false,
+                    "livingPlace": true,
+                    "condominium": false,
+                    "frontLength": "",
+                    "floorsCount": 0,
+                    "m2apto": null,
+                    "apartmentsPerFloor": 0,
+                    "floor": null,
+                    "neighborhood_id": 401,
+                    "estate_id": 21,
+                    "farmhouse": false,
+                    "allowedHeight": "",
+                    "isFavorite": null,
+                    "isExternal": false,
+                    "guests": null,
+                    "seasons": [],
+                    "occupancies": [],
+                    "temporal_price": null,
+                    "temporal_currency": null,
+                    "seaDistanceName": null,
+                    "tour3d": ""
+                },
+                "Country:7": {
+                    "__typename": "Country",
+                    "id": "7",
+                    "name": "Ao Cubo",
+                    "order": 0,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.aocubo.com",
+                        "country_flag": ""
+                    }
+                },
+                "Country:1": {
+                    "__typename": "Country",
+                    "id": "1",
+                    "name": "Uruguay",
+                    "order": 1,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.infocasas.com.uy",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468b01_infocdn__bandera_uy.png"
+                    }
+                },
+                "Country:2": {
+                    "__typename": "Country",
+                    "id": "2",
+                    "name": "Paraguay",
+                    "order": 2,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.infocasas.com.py",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f746823f_infocdn__bandera_py.png"
+                    }
+                },
+                "Country:3": {
+                    "__typename": "Country",
+                    "id": "3",
+                    "name": "Colombia",
+                    "order": 3,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.fincaraiz.com.co",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7469050_infocdn__bandera_co.png"
+                    }
+                },
+                "Country:5": {
+                    "__typename": "Country",
+                    "id": "5",
+                    "name": "Bolivia",
+                    "order": 4,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.infocasas.com.bo",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468b01_infocdn__bandera_bo.png"
+                    }
+                },
+                "Country:4": {
+                    "__typename": "Country",
+                    "id": "4",
+                    "name": "Perú",
+                    "order": 5,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.infocasas.com.pe",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468ede_infocdn__bandera_pe.png"
+                    }
+                },
+                "Country:37": {
+                    "__typename": "Country",
+                    "id": "37",
+                    "name": "Casas en el Este",
+                    "order": 6,
+                    "data": {
+                        "__typename": "CountryConfiguration",
+                        "main_domain": "www.casaseneleste.com",
+                        "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468f29_infocdn__bandera_ceee.png"
+                    }
+                },
+                "SearchBigData:97100": {
+                    "__typename": "SearchBigData",
+                    "id": "97100",
+                    "count_results": 11,
+                    "created_at": "2021-04-10 22:21:22",
+                    "avg_price_m2": 513.39,
+                    "avg_price": 230000,
+                    "avg_time_in_market": 20,
+                    "currency": {
+                        "__typename": "Currency",
+                        "name": "U$S"
+                    }
+                }
+            },
+            "statusCode": 200
+        }
+    },
+    "page": "/propSingle",
+    "query": {
+        "hashed": "eyJpZCI6MTkyMTg0MTQ5LCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
+    },
+    "buildId": "wX2rNFPxBY1JYSj3bem28",
+    "assetPrefix": "https://cdn2.infocasas.com.uy/frontend/2821",
+    "runtimeConfig": {
+        "NODE_ENV": "production",
+        "sentryDNS": "https://aebadfdd38f84af784967d42f1ca072b@o119804.ingest.sentry.io/2679673",
+        "sentryKey": "aebadfdd38f84af784967d42f1ca072b",
+        "googleClientID": "294615345597-9ghmg15vcsfar1b1sqvcqphukull84gn.apps.googleusercontent.com",
+        "facebookAppID": "1402860790042682",
+        "googleMapsApiKey": "AIzaSyAmgs2H6ctTzxN8M2UAu7ebW9mYd7HLGtg",
+        "irisEndpoint": "https://iris-auth.infocasas.com.uy/api",
+        "API_URL": "https://graph.infocasas.com.uy",
+        "APP_NAME": "infonext",
+        "APP_VERSION": "2.12.0",
+        "APP_THEME": "infocasas"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true
+}

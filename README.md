@@ -7,7 +7,6 @@
 > Ejecutar comando:
 * npm install
 
-
 #### Prisma:  
 > Crea el archivo .env con la DATABASE_URL DATABASE_URL="postgresql://<tu usuario>:<tu contraseña>@localhost:5432/<tu nombre de la bd>?schema=public"
 

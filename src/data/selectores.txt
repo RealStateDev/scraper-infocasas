@@ -1,0 +1,11 @@
+Selectores en la pagina https://www.infocasas.com.py/venta/casas/asuncion/pagina2?&ordenListado=3
+
+
+<#__next > div.search-page-container > div.search-results-content > section > div:nth-child(1) > div > div > a> enlace de la propiedad 1 
+<#__next > div.search-page-container > div.search-results-content > section > div:nth-child(2) > div > div > a> enlace de la propiedad 2
+
+
+selectores dentro de la card de la propiedad
+
+selector del json que contiene toda la info de la propiedad 
+<#__NEXT_DATA__> este json es enorme pero tiene toda la data
