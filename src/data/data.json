@@ -1,7 +1,7 @@
 {
     "props": {
         "pageProps": {
-            "__PROPERTY__ID__": 192184149,
+            "__PROPERTY__ID__": 192184443,
             "UrlToBack": -1,
             "DummyContextInitialState": {
                 "count": 23
@@ -102,10 +102,10 @@
             "apolloState": {
                 "ROOT_QUERY": {
                     "__typename": "Query",
-                    "seoMetaTags({\"url\":\"/vendo-amplia-casa-en-san-vicente/192184149\"})": {
+                    "seoMetaTags({\"url\":\"/casa-en-venta-en-barrio-jara/192184443\"})": {
                         "__typename": "SeoMetaTags",
-                        "h1": "VENDO AMPLIA CASA EN SAN VICENTE ",
-                        "title": "VENDO AMPLIA CASA EN SAN VICENTE . Ref #JA5AB4",
+                        "h1": "CASA EN VENTA EN BARRIO JARA ",
+                        "title": "CASA EN VENTA EN BARRIO JARA . Ref #Z21E3A",
                         "breadcrumbs": [
                             {
                                 "__typename": "BreadCrumb",
@@ -129,175 +129,135 @@
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "San Vicente",
-                                "url": "/venta/casas/asuncion/san-vicente"
+                                "text": "Barrio Jara",
+                                "url": "/venta/casas/asuncion/barrio-jara"
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "VENDO AMPLIA CASA EN SAN VICENTE ",
-                                "url": "/vendo-amplia-casa-en-san-vicente-/192184149"
+                                "text": "CASA EN VENTA EN BARRIO JARA ",
+                                "url": "/casa-en-venta-en-barrio-jara-/192184443"
                             }
                         ],
-                        "url": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
-                        "description": "VENDO AMPLIA CASA EN SAN VICENTE????1.490.000.000GSUbicación Ideal en el barrio San Vicente, AsuncionDe.... Ref #JA5AB4",
-                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                        "url": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                        "description": "CASA EN VENTA EN BARRIO JARARepública Dominicana Esquina San Cosme\u0026nbsp;1427\u0026nbsp;,\u0026nbsp;Barrio Jara,\u0026nbsp;AsunciónTerreno420,0 m²\u0026nbsp;Constru.... Ref #Z21E3A",
+                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
                         "noindex": false,
-                        "canonical": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                        "canonical": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
                         "site_name": "InfoCasas",
                         "links": {
                             "Ubicación": [
                                 {
                                     "text": "Herrera",
-                                    "url": "/venta/casas/asuncion/herrera/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/herrera/2-dormitorios"
                                 },
                                 {
                                     "text": "Villa Morra",
-                                    "url": "/venta/casas/asuncion/villa-morra/3-dormitorios"
-                                },
-                                {
-                                    "text": "Ycuá Satí",
-                                    "url": "/venta/casas/asuncion/ycua-sati/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/villa-morra/2-dormitorios"
                                 },
                                 {
                                     "text": "Ytay",
-                                    "url": "/venta/casas/asuncion/ytay/3-dormitorios"
-                                },
-                                {
-                                    "text": "Cañada del Ybyray",
-                                    "url": "/venta/casas/asuncion/canada-del-ybyray/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/ytay/2-dormitorios"
                                 },
                                 {
                                     "text": "Las Carmelitas",
-                                    "url": "/venta/casas/asuncion/las-carmelitas/3-dormitorios"
-                                },
-                                {
-                                    "text": "Las Lomas",
-                                    "url": "/venta/casas/asuncion/las-lomas/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/las-carmelitas/2-dormitorios"
                                 },
                                 {
                                     "text": "Manorá",
-                                    "url": "/venta/casas/asuncion/manora/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/manora/2-dormitorios"
                                 },
                                 {
                                     "text": "Mburucuyá",
-                                    "url": "/venta/casas/asuncion/mburucuya/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/mburucuya/2-dormitorios"
                                 },
                                 {
                                     "text": "Villa Aurelia",
-                                    "url": "/venta/casas/asuncion/villa-aurelia/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/villa-aurelia/2-dormitorios"
                                 },
                                 {
                                     "text": "Terminal",
-                                    "url": "/venta/casas/asuncion/terminal/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/terminal/2-dormitorios"
+                                },
+                                {
+                                    "text": "Tembetary",
+                                    "url": "/venta/casas/asuncion/tembetary/2-dormitorios"
                                 },
                                 {
                                     "text": "Asunción",
-                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/asuncion/2-dormitorios"
                                 },
                                 {
                                     "text": "Los Laureles",
-                                    "url": "/venta/casas/asuncion/los-laureles/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/los-laureles/2-dormitorios"
                                 },
                                 {
                                     "text": "Mcal. Estigarribia",
-                                    "url": "/venta/casas/asuncion/mcal-estigarribia/3-dormitorios"
-                                },
-                                {
-                                    "text": "Nazareth",
-                                    "url": "/venta/casas/asuncion/nazareth/3-dormitorios"
-                                },
-                                {
-                                    "text": "Recoleta",
-                                    "url": "/venta/casas/asuncion/recoleta/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/mcal-estigarribia/2-dormitorios"
                                 },
                                 {
                                     "text": "San Jorge",
-                                    "url": "/venta/casas/asuncion/san-jorge/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/san-jorge/2-dormitorios"
                                 },
                                 {
                                     "text": "San Pablo",
-                                    "url": "/venta/casas/asuncion/san-pablo/3-dormitorios"
-                                },
-                                {
-                                    "text": "Sta. María",
-                                    "url": "/venta/casas/asuncion/sta-maria/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/san-pablo/2-dormitorios"
                                 }
                             ],
                             "Propiedades en barrios cercanos": [
                                 {
                                     "text": "Virgen del Huerto",
-                                    "url": "/venta/casas/asuncion/virgen-del-huerto/3-dormitorios"
-                                },
-                                {
-                                    "text": "Barrio Jara",
-                                    "url": "/venta/casas/asuncion/barrio-jara/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/virgen-del-huerto/2-dormitorios"
                                 },
                                 {
                                     "text": "Las Mercedes",
-                                    "url": "/venta/casas/asuncion/las-mercedes/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/las-mercedes/2-dormitorios"
                                 },
                                 {
                                     "text": "Mburicaó",
-                                    "url": "/venta/casas/asuncion/mburicao/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/mburicao/2-dormitorios"
                                 },
                                 {
                                     "text": "Bernardino Caballero",
-                                    "url": "/venta/casas/asuncion/bernardino-caballero/3-dormitorios"
-                                },
-                                {
-                                    "text": "Ciudad Nueva",
-                                    "url": "/venta/casas/asuncion/ciudad-nueva/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/bernardino-caballero/2-dormitorios"
                                 },
                                 {
                                     "text": "Pinozá",
-                                    "url": "/venta/casas/asuncion/pinoza/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/pinoza/2-dormitorios"
                                 },
                                 {
-                                    "text": "Vista Alegre",
-                                    "url": "/venta/casas/asuncion/vista-alegre/3-dormitorios"
+                                    "text": "San Vicente",
+                                    "url": "/venta/casas/asuncion/san-vicente/2-dormitorios"
                                 },
                                 {
                                     "text": "Pettirossi",
-                                    "url": "/venta/casas/asuncion/pettirossi/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/pettirossi/2-dormitorios"
                                 },
                                 {
                                     "text": "San Roque",
-                                    "url": "/venta/casas/asuncion/san-roque/3-dormitorios"
+                                    "url": "/venta/casas/asuncion/san-roque/2-dormitorios"
                                 }
                             ],
                             "Características": [
                                 {
                                     "text": "Ofrecida por Dueño",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/dueno"
+                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/dueno"
                                 },
                                 {
                                     "text": "Lujosos",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/lujosos"
+                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/lujosos"
                                 },
                                 {
                                     "text": "Baratos",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/baratos"
-                                },
-                                {
-                                    "text": "Con garaje",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-garaje"
-                                },
-                                {
-                                    "text": "Con piscina",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-piscina"
-                                },
-                                {
-                                    "text": "Con jardín",
-                                    "url": "/venta/casas/asuncion/san-vicente/3-dormitorios/con-jardin"
+                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/baratos"
                                 }
                             ]
                         },
-                        "text": "VENDO AMPLIA CASA EN SAN VICENTE  es una Casa con 3 dormitorios, 2 baños y 290 m² construida en 2005. San Vicente, Asunción, Paraguay. Se ubica en San Vicente, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por REMAX Primicias el 22 de marzo de 2025. El precio de Venta es de Gs. 1.490.000.000",
+                        "text": "CASA EN VENTA EN BARRIO JARA  es una Casa con 2 dormitorios, 1 baño y 85 m². Se ubica en Barrio Jara, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por Century 21 Golden el 22 de marzo de 2025. El precio de Venta es de U$S 135.000",
                         "seoLanding": null,
                         "ios_app_id": null
                     },
-                    "property({\"id\":192184149})": {
-                        "__ref": "Property:192184149"
+                    "property({\"id\":192184443})": {
+                        "__ref": "Property:192184443"
                     },
                     "bannerShopping": null,
                     "bannerHeader({\"whereToShow\":\"propiedadesampliar\"})": null,
@@ -326,42 +286,42 @@
                         }
                     ],
                     "getDynamicIpPopupInfo": [],
-                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"192184149\"}})": [
+                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"192184443\"}})": [
                         {
-                            "__ref": "SearchBigData:97100"
+                            "__ref": "SearchBigData:96182"
                         }
                     ]
                 },
-                "Currency:3": {
+                "Currency:1": {
                     "__typename": "Currency",
-                    "id": "3",
-                    "name": "Gs.",
-                    "rate": 7270.1
+                    "id": "1",
+                    "name": "U$S",
+                    "rate": 1
                 },
-                "Subsidiary:159248": {
+                "Subsidiary:164047": {
                     "__typename": "Subsidiary",
-                    "id": "159248",
+                    "id": "164047",
                     "name": "Casa central",
                     "masked_phone": "+5959",
-                    "address": "Santa Cruz de la Sierra 1791 esquina Jose Marti- Barrio Tembetary",
-                    "office_hours": "08:00 a 18:00 hs."
+                    "address": "",
+                    "office_hours": ""
                 },
-                "RealEstateAgent:173274504": {
+                "RealEstateAgent:173653267": {
                     "__typename": "RealEstateAgent",
-                    "id": "173274504",
-                    "name": "REMAX Primicias",
+                    "id": "173653267",
+                    "name": "Century 21 Golden",
                     "masked_phone": "+5959",
                     "has_whatsapp": true,
                     "active": true,
-                    "logo": "https://cdn2.infocasas.com.uy/repo/img/60edca2933bf2_blue-and-white-simple-\u0026-circular-doctor-logo.jpg",
-                    "inmoLink": "/inmobiliarias/perfil/173274504-remax-primicias",
-                    "inmoPropsLink": "/inmobiliaria/remax-primicias/173274504",
-                    "inmofull": true,
+                    "logo": "https://cdn2.infocasas.com.uy/repo/img/63ac3a9505ee1_kjnbjkl;.jpg",
+                    "inmoLink": null,
+                    "inmoPropsLink": "/inmobiliaria/century-21-golden/173653267",
+                    "inmofull": false,
                     "type": "inmobiliaria",
-                    "address": "Santa Cruz de la Sierra 1791 esquina Jose Marti- Barrio Tembetary",
+                    "address": "Papa Juan XXIII 1641 - century 21 Golden",
                     "subsidiaries": [
                         {
-                            "__ref": "Subsidiary:159248"
+                            "__ref": "Subsidiary:164047"
                         }
                     ]
                 },
@@ -370,24 +330,24 @@
                     "id": "21",
                     "name": "Asunción"
                 },
-                "Neighborhood:401": {
+                "Neighborhood:393": {
                     "__typename": "Neighborhood",
-                    "id": "401",
-                    "name": "San Vicente",
+                    "id": "393",
+                    "name": "Barrio Jara",
                     "estate": {
                         "__ref": "Estate:21"
                     },
-                    "lat": -25.3150486,
-                    "long": -57.6240731
+                    "lat": -25.2742838,
+                    "long": -57.602829
                 },
-                "Seller:33016": {
+                "Seller:27764": {
                     "__typename": "Seller",
-                    "id": "33016",
+                    "id": "27764",
                     "individual": null,
                     "type": null,
-                    "name": "Arianna Villalba ",
+                    "name": "Nadia Domaniczky",
                     "role": "BROKER",
-                    "masked_phone": "+595 "
+                    "masked_phone": "09814"
                 },
                 "PropertyType:1": {
                     "__typename": "PropertyType",
@@ -399,100 +359,106 @@
                     "id": "1",
                     "name": "Venta"
                 },
-                "PropertyFacility:13": {
-                    "__typename": "PropertyFacility",
-                    "id": "13",
-                    "name": "Parrillero / Barbacoa",
-                    "group": "Confort del apartamento"
-                },
-                "PropertyFacility:27": {
-                    "__typename": "PropertyFacility",
-                    "id": "27",
-                    "name": "Piscina",
-                    "group": "Confort del edificio"
-                },
-                "PropertyFacility:36": {
-                    "__typename": "PropertyFacility",
-                    "id": "36",
-                    "name": "Aire Acondicionado",
-                    "group": "Instalaciones apartamento"
-                },
                 "PropertyFacility:70": {
                     "__typename": "PropertyFacility",
                     "id": "70",
                     "name": "Jardin / Patio",
                     "group": "Confort de la casa"
                 },
-                "Image:214054206": {
+                "Image:214069013": {
                     "__typename": "Image",
-                    "id": "214054206",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                    "id": "214069013",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
                     "tag": ""
                 },
-                "Image:214054183": {
+                "Image:214069014": {
                     "__typename": "Image",
-                    "id": "214054183",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/0bc36900853cbd7ef871e303c48875dda5c67e54.jpeg",
+                    "id": "214069014",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/3854efe4aa0442f2a00c396cc17abe691147a6d6.jpg",
                     "tag": ""
                 },
-                "Image:214054193": {
+                "Image:214069015": {
                     "__typename": "Image",
-                    "id": "214054193",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/564e5066d3219a890fbd565616a83a1263ae14ee.jpeg",
+                    "id": "214069015",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/a867dff6c0ab3019aed28777ac9429e622356571.jpg",
                     "tag": ""
                 },
-                "Image:214054217": {
+                "Image:214069050": {
                     "__typename": "Image",
-                    "id": "214054217",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/e8830c7d886319101e725ad3fc1ea1ba10ab75f8.jpeg",
+                    "id": "214069050",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/e0366a2129868457a63c5927e97c3eca4d81b3bf.jpg",
                     "tag": ""
                 },
-                "Image:214054230": {
+                "Image:214069051": {
                     "__typename": "Image",
-                    "id": "214054230",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/cd31002434547d1aaea4bfe6607d12945e91b98e.jpeg",
+                    "id": "214069051",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/ff6abf07931183b83fbd51f7c72ef2e4b1e70e40.jpg",
                     "tag": ""
                 },
-                "Property:192184149": {
+                "Image:214069052": {
+                    "__typename": "Image",
+                    "id": "214069052",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/fbb2584caeeb4fb202e209f4fb14d63d561f0cee.jpg",
+                    "tag": ""
+                },
+                "Image:214069053": {
+                    "__typename": "Image",
+                    "id": "214069053",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/a8f059892083bc7c32c857d214df442188335f90.jpg",
+                    "tag": ""
+                },
+                "Image:214069054": {
+                    "__typename": "Image",
+                    "id": "214069054",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/2184a89eb3a32f5eb7a69297c0b3973648c00441.jpg",
+                    "tag": ""
+                },
+                "Image:214069055": {
+                    "__typename": "Image",
+                    "id": "214069055",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/aec13613a2de1fcf02bada1a513598472eed3cb7.jpg",
+                    "tag": ""
+                },
+                "Property:192184443": {
                     "__typename": "Property",
-                    "id": "192184149",
-                    "title": "VENDO AMPLIA CASA EN SAN VICENTE ",
+                    "id": "192184443",
+                    "title": "CASA EN VENTA EN BARRIO JARA ",
                     "typeID": 1,
-                    "address": "San Vicente, Asunción, Paraguay",
-                    "showAddress": true,
+                    "address": "Jara, Asunción, Paraguay",
+                    "showAddress": false,
                     "country_id": 2,
-                    "description": "\u003cp\u003eVENDO AMPLIA CASA EN SAN VICENTE\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e????1.490.000.000GS\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eUbicación Ideal en el barrio San Vicente, Asuncion\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eDescubre esta propiedad perfectamente ubicada en la calle Zorrilla de San Martin c/ Tte. Alcorta.\u003c/p\u003e\u003cp\u003eA 100 mts de la Av. Fernando de la Mora\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eCaracterísticas de esta Propiedad:\u003c/p\u003e\u003cp\u003e????Dimensiones del lote:\u003c/p\u003e\u003cp\u003e*Frente: 21 mts\u003c/p\u003e\u003cp\u003e*Costado: 33mts\u003c/p\u003e\u003cp\u003eSuperficie total: 690m²\u003c/p\u003e\u003cp\u003e????Área construida: 200m²\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e*Sala estar\u003c/p\u003e\u003cp\u003e*Cocina Comedor\u003c/p\u003e\u003cp\u003e*3 habitaciones\u003c/p\u003e\u003cp\u003e*1 baño social/ familiar\u003c/p\u003e\u003cp\u003e*Quincho con parrilla climatizado con vista al patio\u003c/p\u003e\u003cp\u003e*Amplio patio que rodea la propiedad.\u003c/p\u003e\u003cp\u003e*Lavadero.\u003c/p\u003e\u003cp\u003e*Habitación y baño de servicio.\u003c/p\u003e\u003cp\u003e*Piscina con cascada.\u003c/p\u003e\u003cp\u003e*Garaje para 2 vehículos.\u003c/p\u003e\u003cp\u003e*Apto para crédito bancario.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eUbicacion: ***\u003c/p\u003e",
-                    "code": "JA5AB4",
+                    "description": "CASA EN VENTA EN BARRIO JARARepública Dominicana Esquina San Cosme\u0026nbsp;1427\u0026nbsp;,\u0026nbsp;Barrio Jara,\u0026nbsp;Asunción\u003cp\u003eTerreno\u003c/p\u003e\u003cp\u003e420,0 m²\u0026nbsp;\u003c/p\u003e\u003cp\u003eConstrucción\u003c/p\u003e\u003cp\u003e85,6 m²\u0026nbsp;\u003c/p\u003e\u003cp\u003eDormitorios\u003c/p\u003e\u003cp\u003e2\u0026nbsp;\u003c/p\u003e\u003cp\u003eBaños\u003c/p\u003e\u003cp\u003e1\u0026nbsp;\u003c/p\u003e\u003cp\u003eEstacionamientos\u003c/p\u003e\u003cp\u003e1\u0026nbsp;\u003c/p\u003e\u003cp\u003eUna casa estratégicamente ubicada a pasos de la Avenida Artigas, y Gral. Santos, como también de ; Universidad Americana, Sanatorio La Costa, con rápida salida a las principales avenidas de la ciudad.\u003c/p\u003e\u003cp\u003eLa casa cuenta:\u003c/p\u003e\u003cp\u003e2 dormitorios, con aires acondicionados.\u003c/p\u003e\u003cp\u003e1 baño familiar,\u003c/p\u003e\u003cp\u003eSala de estar \u003c/p\u003e\u003cp\u003eCocina/comedor independiente (También con Aire Acondicionado).\u003c/p\u003e\u003cp\u003eGaraje con espacio para 1 vehículo\u003c/p\u003e\u003cp\u003eAmplio patio trasero es ideal para disfrutar del aire libre.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eEsta casa ofrece muchas posibilidades de seguir creciendo adaptándose así a las necesidades de sus futuros propietarios, un hogar perfecto para quienes buscan comodidad en una ubicación privilegiada.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eTerreno: 10 x 40 m2\u003c/p\u003e\u003cp\u003eConstrucción: 85,60 m2\u003c/p\u003e",
+                    "code": "Z21E3A",
                     "code2": null,
-                    "finances": true,
+                    "finances": false,
                     "grouped_ids": null,
-                    "img": "https://cdn2.infocasas.com.uy/repo/img/db76932ad7dcad163bf0b06ae86585e648fd6cbe.jpeg",
+                    "img": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
                     "price": {
                         "__typename": "Price",
-                        "amount": 1490000000,
+                        "amount": 135000,
                         "currency": {
-                            "__ref": "Currency:3"
+                            "__ref": "Currency:1"
                         },
                         "hidePrice": false
                     },
-                    "price_amount_usd": 204949,
+                    "price_amount_usd": 135000,
                     "owner": {
-                        "__ref": "RealEstateAgent:173274504"
+                        "__ref": "RealEstateAgent:173653267"
                     },
                     "neighborhood": {
-                        "__ref": "Neighborhood:401"
+                        "__ref": "Neighborhood:393"
                     },
                     "estate": {
                         "__ref": "Estate:21"
                     },
                     "seller": {
-                        "__ref": "Seller:33016"
+                        "__ref": "Seller:27764"
                     },
                     "technicalSheet": [
                         {
                             "__typename": "TechnicalSheet",
                             "field": "code",
-                            "value": "JA5AB4",
+                            "value": "Z21E3A",
                             "text": "Referencia"
                         },
                         {
@@ -504,13 +470,13 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "neighborhood_name",
-                            "value": "San Vicente",
+                            "value": "Barrio Jara",
                             "text": "Zona"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "construction_state_name",
-                            "value": "Excelente estado",
+                            "value": "Buen estado",
                             "text": "Estado"
                         },
                         {
@@ -522,13 +488,13 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "bathrooms",
-                            "value": "2",
+                            "value": "1",
                             "text": "Baños"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "m2Built",
-                            "value": "290 m2",
+                            "value": "85 m2",
                             "text": "M² edificados"
                         },
                         {
@@ -540,25 +506,25 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "m2Terrain",
-                            "value": "690 m2",
+                            "value": "420 m2",
                             "text": "M² del terreno"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "constructionYear",
-                            "value": "2005",
+                            "value": "",
                             "text": "Año de Construcción"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "bedrooms",
-                            "value": "3",
+                            "value": "2",
                             "text": "Dormitorios"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "garage",
-                            "value": "2",
+                            "value": "1",
                             "text": "Garajes"
                         },
                         {
@@ -570,7 +536,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "over_name",
-                            "value": "",
+                            "value": "No aplica",
                             "text": "Sobre"
                         },
                         {
@@ -594,14 +560,14 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "socialHousing",
-                            "value": "Si",
+                            "value": "",
                             "text": "Vivienda Social"
                         }
                     ],
-                    "image_count": 5,
+                    "image_count": 9,
                     "file_count": 0,
-                    "imgSize": 114858,
-                    "link": "vendo-amplia-casa-en-san-vicente/192184149",
+                    "imgSize": 233318,
+                    "link": "casa-en-venta-en-barrio-jara/192184443",
                     "property_type": {
                         "__ref": "PropertyType:1"
                     },
@@ -611,54 +577,57 @@
                     "barter": false,
                     "facilities": [
                         {
-                            "__ref": "PropertyFacility:13"
-                        },
-                        {
-                            "__ref": "PropertyFacility:27"
-                        },
-                        {
-                            "__ref": "PropertyFacility:36"
-                        },
-                        {
                             "__ref": "PropertyFacility:70"
                         }
                     ],
-                    "m2": 290,
+                    "m2": 85,
                     "hectares": 0,
                     "created_at": "2025-03-22",
                     "updated_at": "2025-03-22",
-                    "latitude": -25.3182335,
+                    "latitude": -25.2710706,
                     "images": [
                         {
-                            "__ref": "Image:214054206"
+                            "__ref": "Image:214069013"
                         },
                         {
-                            "__ref": "Image:214054183"
+                            "__ref": "Image:214069014"
                         },
                         {
-                            "__ref": "Image:214054193"
+                            "__ref": "Image:214069015"
                         },
                         {
-                            "__ref": "Image:214054217"
+                            "__ref": "Image:214069050"
                         },
                         {
-                            "__ref": "Image:214054230"
+                            "__ref": "Image:214069051"
+                        },
+                        {
+                            "__ref": "Image:214069052"
+                        },
+                        {
+                            "__ref": "Image:214069053"
+                        },
+                        {
+                            "__ref": "Image:214069054"
+                        },
+                        {
+                            "__ref": "Image:214069055"
                         }
                     ],
                     "files": [],
-                    "source": 4,
+                    "source": 0,
                     "project": [],
                     "color": 3,
-                    "longitude": -57.6207023,
+                    "longitude": -57.603825,
                     "pausd": false,
-                    "pointType": false,
+                    "pointType": true,
                     "zoom": 15,
                     "youtube": null,
                     "highlight": 0,
                     "active": true,
                     "deleted": false,
-                    "relevance": 74.2079,
-                    "construction_year": "2005",
+                    "relevance": 74.2503,
+                    "construction_year": "",
                     "notes": "",
                     "sold": false,
                     "soldDate": "0000-00-00",
@@ -676,7 +645,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "twitter",
                             "name": "twitter",
-                            "url": "https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "url": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
                             "icon": "icon-twitter",
                             "order": null
                         },
@@ -684,7 +653,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "linkedin",
                             "name": "linkedin",
-                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
                             "icon": "icon-linkedin",
                             "order": null
                         },
@@ -692,7 +661,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "facebook",
                             "name": "facebook",
-                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
                             "icon": "icon-facebook-1",
                             "order": null
                         },
@@ -700,27 +669,27 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "email",
                             "name": "email",
-                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/vendo-amplia-casa-en-san-vicente/192184149",
+                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
                             "icon": "icon-mail",
                             "order": null
                         }
                     ],
-                    "m2Built": 290,
-                    "garage": 2,
+                    "m2Built": 85,
+                    "garage": 1,
                     "office": false,
                     "dispositionID": 1,
-                    "bathrooms": 2,
-                    "bedrooms": 3,
-                    "rooms": 4,
+                    "bathrooms": 1,
+                    "bedrooms": 2,
+                    "rooms": 3,
                     "seaview": false,
-                    "livingPlace": true,
+                    "livingPlace": false,
                     "condominium": false,
                     "frontLength": "",
                     "floorsCount": 0,
                     "m2apto": null,
                     "apartmentsPerFloor": 0,
                     "floor": null,
-                    "neighborhood_id": 401,
+                    "neighborhood_id": 393,
                     "estate_id": 21,
                     "farmhouse": false,
                     "allowedHeight": "",
@@ -811,14 +780,14 @@
                         "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468f29_infocdn__bandera_ceee.png"
                     }
                 },
-                "SearchBigData:97100": {
+                "SearchBigData:96182": {
                     "__typename": "SearchBigData",
-                    "id": "97100",
-                    "count_results": 11,
-                    "created_at": "2021-04-10 22:21:22",
-                    "avg_price_m2": 513.39,
-                    "avg_price": 230000,
-                    "avg_time_in_market": 20,
+                    "id": "96182",
+                    "count_results": 4,
+                    "created_at": "2021-04-10 22:20:58",
+                    "avg_price_m2": 740,
+                    "avg_price": 148000,
+                    "avg_time_in_market": 54,
                     "currency": {
                         "__typename": "Currency",
                         "name": "U$S"
@@ -830,7 +799,7 @@
     },
     "page": "/propSingle",
     "query": {
-        "hashed": "eyJpZCI6MTkyMTg0MTQ5LCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
+        "hashed": "eyJpZCI6MTkyMTg0NDQzLCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
     },
     "buildId": "wX2rNFPxBY1JYSj3bem28",
     "assetPrefix": "https://cdn2.infocasas.com.uy/frontend/2821",

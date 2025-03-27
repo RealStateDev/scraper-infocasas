@@ -70,30 +70,29 @@ export const scrapeMultiplePages = async (
         const property = apollo[propKey];
         const facilities = property.facilities || [];
 
+        const getFromSheet = (field: string): string | undefined => {
+          return property.technicalSheet?.find((x: any) => x.field === field)?.value;
+        };
+        
         const data: PropertyData = {
           titulo: property.title,
           precio: property.price?.amount || 0,
-          zona: property.neighborhood?.name,
-          dormitorios: parseInt(property.bedrooms) || undefined,
-          banos: parseInt(property.bathrooms) || undefined,
-          tipo_propiedad: property.property_type?.name,
-          estado_propiedad: property.technicalSheet?.find(
-            (x: any) => x.field === "construction_state_name"
-          )?.value,
-          garajes: parseInt(property.garage) || undefined,
-          m2_edificados: parseFloat(property.m2Built) || undefined,
-          m2_terreno: parseFloat(property.m2Terrain) || undefined,
-          plantas: parseInt(property.story) || undefined,
+          zona: getFromSheet("neighborhood_name") || property.neighborhood?.name,
+          dormitorios: parseInt(property.bedrooms) || parseInt(getFromSheet("bedrooms") || "") || undefined,
+          banos: parseInt(property.bathrooms) || parseInt(getFromSheet("bathrooms") || "") || undefined,
+          tipo_propiedad: getFromSheet("property_type_name") || property.property_type?.name,
+          estado_propiedad: getFromSheet("construction_state_name"),
+          garajes: parseInt(property.garage) || parseInt(getFromSheet("garage") || "") || undefined,
+          m2_edificados: parseFloat(getFromSheet("m2Built")?.replace(/[^\d.]/g, "") || "") || undefined,
+          m2_terreno: parseFloat(getFromSheet("m2Terrain")?.replace(/[^\d.]/g, "") || "") || undefined,
+          plantas: parseInt(getFromSheet("story") || "") || undefined,
           descripcion: property.description?.replace(/<[^>]+>/g, ""),
           latitud: property.latitude,
           longitud: property.longitude,
           url: `https://www.infocasas.com.py/${property.link}`,
-          comodidades: facilities
-            .map((f: any) => apollo[f.__ref]?.name)
-            .join(", "),
+          comodidades: facilities.map((f: any) => apollo[f.__ref]?.name).join(", "),
           currency: property.price?.currency?.name || "Gs.",
         };
-
         await prisma.propiedades_scraping.create({
           data: {
             ...data,
