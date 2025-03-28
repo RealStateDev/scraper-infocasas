@@ -1,7 +1,7 @@
 {
     "props": {
         "pageProps": {
-            "__PROPERTY__ID__": 192184443,
+            "__PROPERTY__ID__": 191580197,
             "UrlToBack": -1,
             "DummyContextInitialState": {
                 "count": 23
@@ -102,10 +102,10 @@
             "apolloState": {
                 "ROOT_QUERY": {
                     "__typename": "Query",
-                    "seoMetaTags({\"url\":\"/casa-en-venta-en-barrio-jara/192184443\"})": {
+                    "seoMetaTags({\"url\":\"/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197\"})": {
                         "__typename": "SeoMetaTags",
-                        "h1": "CASA EN VENTA EN BARRIO JARA ",
-                        "title": "CASA EN VENTA EN BARRIO JARA . Ref #Z21E3A",
+                        "h1": "Vendo Departamento Amoblado De 1 Dormitorio En El Edificio The Forest Con Renta",
+                        "title": "Vendo Departamento Amoblado De 1 Dormitorio En El Edificio The Forest Con Renta. Ref #W55C99",
                         "breadcrumbs": [
                             {
                                 "__typename": "BreadCrumb",
@@ -119,145 +119,189 @@
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "Casas",
-                                "url": "/venta/casas"
+                                "text": "Departamentos",
+                                "url": "/venta/departamentos"
                             },
                             {
                                 "__typename": "BreadCrumb",
                                 "text": "Asunción",
-                                "url": "/venta/casas/asuncion"
+                                "url": "/venta/departamentos/asuncion"
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "Barrio Jara",
-                                "url": "/venta/casas/asuncion/barrio-jara"
+                                "text": "Mburucuyá",
+                                "url": "/venta/departamentos/asuncion/mburucuya"
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "CASA EN VENTA EN BARRIO JARA ",
-                                "url": "/casa-en-venta-en-barrio-jara-/192184443"
+                                "text": "Vendo Departamento Amoblado De 1 Dormitorio En El Edificio The Forest Con Renta",
+                                "url": "/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197"
                             }
                         ],
-                        "url": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
-                        "description": "CASA EN VENTA EN BARRIO JARARepública Dominicana Esquina San Cosme\u0026nbsp;1427\u0026nbsp;,\u0026nbsp;Barrio Jara,\u0026nbsp;AsunciónTerreno420,0 m²\u0026nbsp;Constru.... Ref #Z21E3A",
-                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
+                        "url": "https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
+                        "description": "IMPERDIBLE OPORTUNIDAD!!!!PRECIO NUEVO!!!!!VENDO DEPARTAMENTO AMOBLADO DE 1 DORMITORIO EN EL EDIFICIO THE FORESTEl departamen.... Ref #W55C99",
+                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/c03618ca397ae912dca8dc719652239c8769a85f.jpeg",
                         "noindex": false,
-                        "canonical": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                        "canonical": "https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                         "site_name": "InfoCasas",
                         "links": {
                             "Ubicación": [
                                 {
                                     "text": "Herrera",
-                                    "url": "/venta/casas/asuncion/herrera/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/herrera/1-dormitorio"
                                 },
                                 {
                                     "text": "Villa Morra",
-                                    "url": "/venta/casas/asuncion/villa-morra/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/villa-morra/1-dormitorio"
+                                },
+                                {
+                                    "text": "Ycuá Satí",
+                                    "url": "/venta/departamentos/asuncion/ycua-sati/1-dormitorio"
                                 },
                                 {
                                     "text": "Ytay",
-                                    "url": "/venta/casas/asuncion/ytay/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/ytay/1-dormitorio"
+                                },
+                                {
+                                    "text": "Cañada del Ybyray",
+                                    "url": "/venta/departamentos/asuncion/canada-del-ybyray/1-dormitorio"
                                 },
                                 {
                                     "text": "Las Carmelitas",
-                                    "url": "/venta/casas/asuncion/las-carmelitas/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/las-carmelitas/1-dormitorio"
+                                },
+                                {
+                                    "text": "Las Lomas",
+                                    "url": "/venta/departamentos/asuncion/las-lomas/1-dormitorio"
                                 },
                                 {
                                     "text": "Manorá",
-                                    "url": "/venta/casas/asuncion/manora/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/manora/1-dormitorio"
                                 },
                                 {
                                     "text": "Mburucuyá",
-                                    "url": "/venta/casas/asuncion/mburucuya/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio"
                                 },
                                 {
                                     "text": "Villa Aurelia",
-                                    "url": "/venta/casas/asuncion/villa-aurelia/2-dormitorios"
-                                },
-                                {
-                                    "text": "Terminal",
-                                    "url": "/venta/casas/asuncion/terminal/2-dormitorios"
-                                },
-                                {
-                                    "text": "Tembetary",
-                                    "url": "/venta/casas/asuncion/tembetary/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/villa-aurelia/1-dormitorio"
                                 },
                                 {
                                     "text": "Asunción",
-                                    "url": "/venta/casas/asuncion/asuncion/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/asuncion/1-dormitorio"
                                 },
                                 {
                                     "text": "Los Laureles",
-                                    "url": "/venta/casas/asuncion/los-laureles/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/los-laureles/1-dormitorio"
                                 },
                                 {
                                     "text": "Mcal. Estigarribia",
-                                    "url": "/venta/casas/asuncion/mcal-estigarribia/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/mcal-estigarribia/1-dormitorio"
+                                },
+                                {
+                                    "text": "Recoleta",
+                                    "url": "/venta/departamentos/asuncion/recoleta/1-dormitorio"
                                 },
                                 {
                                     "text": "San Jorge",
-                                    "url": "/venta/casas/asuncion/san-jorge/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio"
                                 },
                                 {
                                     "text": "San Pablo",
-                                    "url": "/venta/casas/asuncion/san-pablo/2-dormitorios"
+                                    "url": "/venta/departamentos/asuncion/san-pablo/1-dormitorio"
+                                },
+                                {
+                                    "text": "Sta. María",
+                                    "url": "/venta/departamentos/asuncion/sta-maria/1-dormitorio"
                                 }
                             ],
                             "Propiedades en barrios cercanos": [
                                 {
-                                    "text": "Virgen del Huerto",
-                                    "url": "/venta/casas/asuncion/virgen-del-huerto/2-dormitorios"
+                                    "text": "Asunción",
+                                    "url": "/venta/departamentos/asuncion/asuncion/1-dormitorio"
                                 },
                                 {
-                                    "text": "Las Mercedes",
-                                    "url": "/venta/casas/asuncion/las-mercedes/2-dormitorios"
+                                    "text": "Cañada del Ybyray",
+                                    "url": "/venta/departamentos/asuncion/canada-del-ybyray/1-dormitorio"
                                 },
                                 {
-                                    "text": "Mburicaó",
-                                    "url": "/venta/casas/asuncion/mburicao/2-dormitorios"
+                                    "text": "Las Carmelitas",
+                                    "url": "/venta/departamentos/asuncion/las-carmelitas/1-dormitorio"
                                 },
                                 {
-                                    "text": "Bernardino Caballero",
-                                    "url": "/venta/casas/asuncion/bernardino-caballero/2-dormitorios"
+                                    "text": "Las Lomas",
+                                    "url": "/venta/departamentos/asuncion/las-lomas/1-dormitorio"
                                 },
                                 {
-                                    "text": "Pinozá",
-                                    "url": "/venta/casas/asuncion/pinoza/2-dormitorios"
+                                    "text": "Manorá",
+                                    "url": "/venta/departamentos/asuncion/manora/1-dormitorio"
                                 },
                                 {
-                                    "text": "San Vicente",
-                                    "url": "/venta/casas/asuncion/san-vicente/2-dormitorios"
+                                    "text": "Mme. Lynch",
+                                    "url": "/venta/departamentos/asuncion/mme-lynch/1-dormitorio"
                                 },
                                 {
-                                    "text": "Pettirossi",
-                                    "url": "/venta/casas/asuncion/pettirossi/2-dormitorios"
+                                    "text": "Trinidad",
+                                    "url": "/venta/departamentos/asuncion/trinidad/1-dormitorio"
                                 },
                                 {
-                                    "text": "San Roque",
-                                    "url": "/venta/casas/asuncion/san-roque/2-dormitorios"
+                                    "text": "Mbocayaty",
+                                    "url": "/venta/departamentos/asuncion/mbocayaty/1-dormitorio"
+                                },
+                                {
+                                    "text": "Bella Vista",
+                                    "url": "/venta/departamentos/asuncion/bella-vista/1-dormitorio"
+                                },
+                                {
+                                    "text": "Mcal. López",
+                                    "url": "/venta/departamentos/asuncion/mcal-lopez/1-dormitorio"
                                 }
                             ],
                             "Características": [
                                 {
                                     "text": "Ofrecida por Dueño",
-                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/dueno"
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/dueno"
                                 },
                                 {
                                     "text": "Lujosos",
-                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/lujosos"
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/lujosos"
                                 },
                                 {
                                     "text": "Baratos",
-                                    "url": "/venta/casas/asuncion/barrio-jara/2-dormitorios/baratos"
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/baratos"
+                                },
+                                {
+                                    "text": "A estrenar",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/a-estrenar"
+                                },
+                                {
+                                    "text": "En construcción",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/en-construccion"
+                                },
+                                {
+                                    "text": "Con balcón",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/con-balcon"
+                                },
+                                {
+                                    "text": "Con garaje",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/con-garaje"
+                                },
+                                {
+                                    "text": "Con parrillero",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/con-parrillero"
+                                },
+                                {
+                                    "text": "Con piscina",
+                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio/con-piscina"
                                 }
                             ]
                         },
-                        "text": "CASA EN VENTA EN BARRIO JARA  es una Casa con 2 dormitorios, 1 baño y 85 m². Se ubica en Barrio Jara, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por Century 21 Golden el 22 de marzo de 2025. El precio de Venta es de U$S 135.000",
+                        "text": "Vendo Departamento Amoblado De 1 Dormitorio En El Edificio The Forest Con Renta es un Departamento con 1 dormitorio, 1 baño y 40 m². Se ubica en Mburucuyá, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por Leticia Florentin - C21 Wilson Chihan el 17 de octubre de 2024. El precio de Venta es de U$S 75.000",
                         "seoLanding": null,
                         "ios_app_id": null
                     },
-                    "property({\"id\":192184443})": {
-                        "__ref": "Property:192184443"
+                    "property({\"id\":191580197})": {
+                        "__ref": "Property:191580197"
                     },
                     "bannerShopping": null,
                     "bannerHeader({\"whereToShow\":\"propiedadesampliar\"})": null,
@@ -286,9 +330,9 @@
                         }
                     ],
                     "getDynamicIpPopupInfo": [],
-                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"192184443\"}})": [
+                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"191580197\"}})": [
                         {
-                            "__ref": "SearchBigData:96182"
+                            "__ref": "SearchBigData:109865"
                         }
                     ]
                 },
@@ -298,30 +342,30 @@
                     "name": "U$S",
                     "rate": 1
                 },
-                "Subsidiary:164047": {
+                "Subsidiary:1083613": {
                     "__typename": "Subsidiary",
-                    "id": "164047",
+                    "id": "1083613",
                     "name": "Casa central",
                     "masked_phone": "+5959",
                     "address": "",
                     "office_hours": ""
                 },
-                "RealEstateAgent:173653267": {
+                "RealEstateAgent:175325329": {
                     "__typename": "RealEstateAgent",
-                    "id": "173653267",
-                    "name": "Century 21 Golden",
+                    "id": "175325329",
+                    "name": "Leticia Florentin - C21 Wilson Chihan",
                     "masked_phone": "+5959",
                     "has_whatsapp": true,
                     "active": true,
-                    "logo": "https://cdn2.infocasas.com.uy/repo/img/63ac3a9505ee1_kjnbjkl;.jpg",
+                    "logo": "",
                     "inmoLink": null,
-                    "inmoPropsLink": "/inmobiliaria/century-21-golden/173653267",
+                    "inmoPropsLink": "/inmobiliaria/leticia-florentin-c21-wilson-chihan/175325329",
                     "inmofull": false,
                     "type": "inmobiliaria",
-                    "address": "Papa Juan XXIII 1641 - century 21 Golden",
+                    "address": "Nora. Sra  Del Carmen 245 casi Odriozola ",
                     "subsidiaries": [
                         {
-                            "__ref": "Subsidiary:164047"
+                            "__ref": "Subsidiary:1083613"
                         }
                     ]
                 },
@@ -330,147 +374,106 @@
                     "id": "21",
                     "name": "Asunción"
                 },
-                "Neighborhood:393": {
+                "Neighborhood:376": {
                     "__typename": "Neighborhood",
-                    "id": "393",
-                    "name": "Barrio Jara",
+                    "id": "376",
+                    "name": "Mburucuyá",
                     "estate": {
                         "__ref": "Estate:21"
                     },
-                    "lat": -25.2742838,
-                    "long": -57.602829
+                    "lat": -25.2642904,
+                    "long": -57.5674318
                 },
-                "Seller:27764": {
-                    "__typename": "Seller",
-                    "id": "27764",
-                    "individual": null,
-                    "type": null,
-                    "name": "Nadia Domaniczky",
-                    "role": "BROKER",
-                    "masked_phone": "09814"
-                },
-                "PropertyType:1": {
+                "PropertyType:2": {
                     "__typename": "PropertyType",
-                    "id": "1",
-                    "name": "Casa"
+                    "id": "2",
+                    "name": "Departamento"
                 },
                 "OperationType:1": {
                     "__typename": "OperationType",
                     "id": "1",
                     "name": "Venta"
                 },
-                "PropertyFacility:70": {
-                    "__typename": "PropertyFacility",
-                    "id": "70",
-                    "name": "Jardin / Patio",
-                    "group": "Confort de la casa"
-                },
-                "Image:214069013": {
+                "Image:208925286": {
                     "__typename": "Image",
-                    "id": "214069013",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
+                    "id": "208925286",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/c03618ca397ae912dca8dc719652239c8769a85f.jpeg",
                     "tag": ""
                 },
-                "Image:214069014": {
+                "Image:208925287": {
                     "__typename": "Image",
-                    "id": "214069014",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/3854efe4aa0442f2a00c396cc17abe691147a6d6.jpg",
+                    "id": "208925287",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/35fc1e6fbf5f89bc9efbd901fffbed1ae0a9c041.jpeg",
                     "tag": ""
                 },
-                "Image:214069015": {
+                "Image:208925290": {
                     "__typename": "Image",
-                    "id": "214069015",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/a867dff6c0ab3019aed28777ac9429e622356571.jpg",
+                    "id": "208925290",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/cbf40e891d555c016bae9dce68735cbf47aec3ff.jpeg",
                     "tag": ""
                 },
-                "Image:214069050": {
+                "Image:208925291": {
                     "__typename": "Image",
-                    "id": "214069050",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/e0366a2129868457a63c5927e97c3eca4d81b3bf.jpg",
+                    "id": "208925291",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/967a1abe6cc5a4f4713975c5214720fe8d1af47a.jpeg",
                     "tag": ""
                 },
-                "Image:214069051": {
+                "Image:208925292": {
                     "__typename": "Image",
-                    "id": "214069051",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/ff6abf07931183b83fbd51f7c72ef2e4b1e70e40.jpg",
+                    "id": "208925292",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/c42f0aeaf55e131df0fcf940736bbe198aa0f6d9.jpeg",
                     "tag": ""
                 },
-                "Image:214069052": {
-                    "__typename": "Image",
-                    "id": "214069052",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/fbb2584caeeb4fb202e209f4fb14d63d561f0cee.jpg",
-                    "tag": ""
-                },
-                "Image:214069053": {
-                    "__typename": "Image",
-                    "id": "214069053",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/a8f059892083bc7c32c857d214df442188335f90.jpg",
-                    "tag": ""
-                },
-                "Image:214069054": {
-                    "__typename": "Image",
-                    "id": "214069054",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/2184a89eb3a32f5eb7a69297c0b3973648c00441.jpg",
-                    "tag": ""
-                },
-                "Image:214069055": {
-                    "__typename": "Image",
-                    "id": "214069055",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/aec13613a2de1fcf02bada1a513598472eed3cb7.jpg",
-                    "tag": ""
-                },
-                "Property:192184443": {
+                "Property:191580197": {
                     "__typename": "Property",
-                    "id": "192184443",
-                    "title": "CASA EN VENTA EN BARRIO JARA ",
-                    "typeID": 1,
-                    "address": "Jara, Asunción, Paraguay",
+                    "id": "191580197",
+                    "title": "Vendo Departamento Amoblado De 1 Dormitorio En El Edificio The Forest Con Renta",
+                    "typeID": 2,
+                    "address": "",
                     "showAddress": false,
                     "country_id": 2,
-                    "description": "CASA EN VENTA EN BARRIO JARARepública Dominicana Esquina San Cosme\u0026nbsp;1427\u0026nbsp;,\u0026nbsp;Barrio Jara,\u0026nbsp;Asunción\u003cp\u003eTerreno\u003c/p\u003e\u003cp\u003e420,0 m²\u0026nbsp;\u003c/p\u003e\u003cp\u003eConstrucción\u003c/p\u003e\u003cp\u003e85,6 m²\u0026nbsp;\u003c/p\u003e\u003cp\u003eDormitorios\u003c/p\u003e\u003cp\u003e2\u0026nbsp;\u003c/p\u003e\u003cp\u003eBaños\u003c/p\u003e\u003cp\u003e1\u0026nbsp;\u003c/p\u003e\u003cp\u003eEstacionamientos\u003c/p\u003e\u003cp\u003e1\u0026nbsp;\u003c/p\u003e\u003cp\u003eUna casa estratégicamente ubicada a pasos de la Avenida Artigas, y Gral. Santos, como también de ; Universidad Americana, Sanatorio La Costa, con rápida salida a las principales avenidas de la ciudad.\u003c/p\u003e\u003cp\u003eLa casa cuenta:\u003c/p\u003e\u003cp\u003e2 dormitorios, con aires acondicionados.\u003c/p\u003e\u003cp\u003e1 baño familiar,\u003c/p\u003e\u003cp\u003eSala de estar \u003c/p\u003e\u003cp\u003eCocina/comedor independiente (También con Aire Acondicionado).\u003c/p\u003e\u003cp\u003eGaraje con espacio para 1 vehículo\u003c/p\u003e\u003cp\u003eAmplio patio trasero es ideal para disfrutar del aire libre.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eEsta casa ofrece muchas posibilidades de seguir creciendo adaptándose así a las necesidades de sus futuros propietarios, un hogar perfecto para quienes buscan comodidad en una ubicación privilegiada.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eTerreno: 10 x 40 m2\u003c/p\u003e\u003cp\u003eConstrucción: 85,60 m2\u003c/p\u003e",
-                    "code": "Z21E3A",
+                    "description": "\u003cp\u003eIMPERDIBLE OPORTUNIDAD!!!!\u003c/p\u003e\u003cp\u003ePRECIO NUEVO!!!!!\u003c/p\u003e\u003cp\u003eVENDO DEPARTAMENTO AMOBLADO DE 1 DORMITORIO EN EL EDIFICIO THE FOREST\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eEl departamento se encuentra en la torre 2 piso Nº. 6, cuenta con 40 m2 propios con las siguientes características:\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eDESCRIPCION:\u003c/p\u003e\u003cp\u003e• Torre 2 Dpto. 602 B.\u003c/p\u003e\u003cp\u003e• Cochera para 1 vehículo.\u003c/p\u003e\u003cp\u003e• Living comedor (Integrada).\u003c/p\u003e\u003cp\u003e• 1 habitación.\u003c/p\u003e\u003cp\u003e• Cocina amoblada.\u003c/p\u003e\u003cp\u003e•1 Baño.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eMOBILIARIO:\u003c/p\u003e\u003cp\u003eDormitorio: cama somier de 1.40 con cabecera y mesita lateral, placar empotrado y aire acondicionado.\u003c/p\u003e\u003cp\u003eLiving comedor: juego de comedor con 4 sillas, living de 3 cuerpos tapizado, mueble para TV,\u003c/p\u003e\u003cp\u003eCocina: Anafe de 2 hornallas, horno empotrado, extractor de acero inoxidable, microondas, hervidora, cafetera y tostador ( juego de platos, vasos, tasas y cubiertos)\u003c/p\u003e\u003cp\u003eTODOS LOS AMBIENTES CLIMATIZADOS.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eAMENITIES\u003c/p\u003e\u003cp\u003ePiscina al aire libre para niños y adultos, Piscina cubierta y climatizada verano/invierno, Parque de 1500 m2 aprox, Gimnasio, Sala de reuniones, Sala de juegos para adolescentes, Sala de juegos para niños, Juegos para niños en el exterior, Salón de usos múltiples, Laundry, Seguridad 24 horas, Vestuarios y duchas para personal de servicio.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eCP LF\u003c/p\u003e",
+                    "code": "W55C99",
                     "code2": null,
                     "finances": false,
                     "grouped_ids": null,
-                    "img": "https://cdn2.infocasas.com.uy/repo/img/7e12d4ae12947c7b10c09c3ae1a07789d873422a.jpg",
+                    "img": "https://cdn2.infocasas.com.uy/repo/img/c03618ca397ae912dca8dc719652239c8769a85f.jpeg",
                     "price": {
                         "__typename": "Price",
-                        "amount": 135000,
+                        "amount": 75000,
                         "currency": {
                             "__ref": "Currency:1"
                         },
                         "hidePrice": false
                     },
-                    "price_amount_usd": 135000,
+                    "price_amount_usd": 75000,
                     "owner": {
-                        "__ref": "RealEstateAgent:173653267"
+                        "__ref": "RealEstateAgent:175325329"
                     },
                     "neighborhood": {
-                        "__ref": "Neighborhood:393"
+                        "__ref": "Neighborhood:376"
                     },
                     "estate": {
                         "__ref": "Estate:21"
                     },
-                    "seller": {
-                        "__ref": "Seller:27764"
-                    },
+                    "seller": null,
                     "technicalSheet": [
                         {
                             "__typename": "TechnicalSheet",
                             "field": "code",
-                            "value": "Z21E3A",
+                            "value": "W55C99",
                             "text": "Referencia"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "property_type_name",
-                            "value": "Casa",
+                            "value": "Departamento",
                             "text": "Tipo de Propiedad"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "neighborhood_name",
-                            "value": "Barrio Jara",
+                            "value": "Mburucuyá",
                             "text": "Zona"
                         },
                         {
@@ -482,7 +485,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "disposition_name",
-                            "value": "No aplica",
+                            "value": "Interior",
                             "text": "Disposición"
                         },
                         {
@@ -494,7 +497,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "m2Built",
-                            "value": "85 m2",
+                            "value": "40 m2",
                             "text": "M² edificados"
                         },
                         {
@@ -506,7 +509,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "m2Terrain",
-                            "value": "420 m2",
+                            "value": "",
                             "text": "M² del terreno"
                         },
                         {
@@ -518,7 +521,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "bedrooms",
-                            "value": "2",
+                            "value": "1",
                             "text": "Dormitorios"
                         },
                         {
@@ -547,6 +550,30 @@
                         },
                         {
                             "__typename": "TechnicalSheet",
+                            "field": "commonExpenses",
+                            "value": "",
+                            "text": "Gastos Comunes"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "floor",
+                            "value": "",
+                            "text": "Piso"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "apartsPerFloor",
+                            "value": "",
+                            "text": "Apartamentos por Pisos"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
+                            "field": "floorsAmount",
+                            "value": "",
+                            "text": "Cantidad de Pisos"
+                        },
+                        {
+                            "__typename": "TechnicalSheet",
                             "field": "initialFee",
                             "value": "",
                             "text": "Cuota inicial"
@@ -564,69 +591,53 @@
                             "text": "Vivienda Social"
                         }
                     ],
-                    "image_count": 9,
+                    "image_count": 5,
                     "file_count": 0,
-                    "imgSize": 233318,
-                    "link": "casa-en-venta-en-barrio-jara/192184443",
+                    "imgSize": 137081,
+                    "link": "vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                     "property_type": {
-                        "__ref": "PropertyType:1"
+                        "__ref": "PropertyType:2"
                     },
                     "operation_type": {
                         "__ref": "OperationType:1"
                     },
                     "barter": false,
-                    "facilities": [
-                        {
-                            "__ref": "PropertyFacility:70"
-                        }
-                    ],
-                    "m2": 85,
+                    "facilities": [],
+                    "m2": 40,
                     "hectares": 0,
-                    "created_at": "2025-03-22",
-                    "updated_at": "2025-03-22",
-                    "latitude": -25.2710706,
+                    "created_at": "2024-10-17",
+                    "updated_at": "2025-03-04",
+                    "latitude": -25.2657554,
                     "images": [
                         {
-                            "__ref": "Image:214069013"
+                            "__ref": "Image:208925286"
                         },
                         {
-                            "__ref": "Image:214069014"
+                            "__ref": "Image:208925287"
                         },
                         {
-                            "__ref": "Image:214069015"
+                            "__ref": "Image:208925290"
                         },
                         {
-                            "__ref": "Image:214069050"
+                            "__ref": "Image:208925291"
                         },
                         {
-                            "__ref": "Image:214069051"
-                        },
-                        {
-                            "__ref": "Image:214069052"
-                        },
-                        {
-                            "__ref": "Image:214069053"
-                        },
-                        {
-                            "__ref": "Image:214069054"
-                        },
-                        {
-                            "__ref": "Image:214069055"
+                            "__ref": "Image:208925292"
                         }
                     ],
                     "files": [],
                     "source": 0,
                     "project": [],
                     "color": 3,
-                    "longitude": -57.603825,
+                    "longitude": -57.5661998,
                     "pausd": false,
                     "pointType": true,
                     "zoom": 15,
                     "youtube": null,
-                    "highlight": 0,
+                    "highlight": 10,
                     "active": true,
                     "deleted": false,
-                    "relevance": 74.2503,
+                    "relevance": 94.9087,
                     "construction_year": "",
                     "notes": "",
                     "sold": false,
@@ -645,7 +656,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "twitter",
                             "name": "twitter",
-                            "url": "https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                            "url": "https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                             "icon": "icon-twitter",
                             "order": null
                         },
@@ -653,7 +664,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "linkedin",
                             "name": "linkedin",
-                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                             "icon": "icon-linkedin",
                             "order": null
                         },
@@ -661,7 +672,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "facebook",
                             "name": "facebook",
-                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                             "icon": "icon-facebook-1",
                             "order": null
                         },
@@ -669,18 +680,18 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "email",
                             "name": "email",
-                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/casa-en-venta-en-barrio-jara/192184443",
+                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/vendo-departamento-amoblado-de-1-dormitorio-en-el-edificio-the-forest-con-renta/191580197",
                             "icon": "icon-mail",
                             "order": null
                         }
                     ],
-                    "m2Built": 85,
+                    "m2Built": 40,
                     "garage": 1,
                     "office": false,
-                    "dispositionID": 1,
+                    "dispositionID": 4,
                     "bathrooms": 1,
-                    "bedrooms": 2,
-                    "rooms": 3,
+                    "bedrooms": 1,
+                    "rooms": 2,
                     "seaview": false,
                     "livingPlace": false,
                     "condominium": false,
@@ -689,7 +700,7 @@
                     "m2apto": null,
                     "apartmentsPerFloor": 0,
                     "floor": null,
-                    "neighborhood_id": 393,
+                    "neighborhood_id": 376,
                     "estate_id": 21,
                     "farmhouse": false,
                     "allowedHeight": "",
@@ -780,14 +791,14 @@
                         "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468f29_infocdn__bandera_ceee.png"
                     }
                 },
-                "SearchBigData:96182": {
+                "SearchBigData:109865": {
                     "__typename": "SearchBigData",
-                    "id": "96182",
-                    "count_results": 4,
-                    "created_at": "2021-04-10 22:20:58",
-                    "avg_price_m2": 740,
-                    "avg_price": 148000,
-                    "avg_time_in_market": 54,
+                    "id": "109865",
+                    "count_results": 68,
+                    "created_at": "2021-04-10 22:34:31",
+                    "avg_price_m2": 1558.62,
+                    "avg_price": 90400,
+                    "avg_time_in_market": 784,
                     "currency": {
                         "__typename": "Currency",
                         "name": "U$S"
@@ -799,7 +810,7 @@
     },
     "page": "/propSingle",
     "query": {
-        "hashed": "eyJpZCI6MTkyMTg0NDQzLCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
+        "hashed": "eyJpZCI6MTkxNTgwMTk3LCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
     },
     "buildId": "wX2rNFPxBY1JYSj3bem28",
     "assetPrefix": "https://cdn2.infocasas.com.uy/frontend/2821",

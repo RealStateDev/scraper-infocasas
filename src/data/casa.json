@@ -1,7 +1,7 @@
 {
     "props": {
         "pageProps": {
-            "__PROPERTY__ID__": 190475055,
+            "__PROPERTY__ID__": 192034473,
             "UrlToBack": -1,
             "DummyContextInitialState": {
                 "count": 23
@@ -102,10 +102,10 @@
             "apolloState": {
                 "ROOT_QUERY": {
                     "__typename": "Query",
-                    "seoMetaTags({\"url\":\"/vendo-departamento-zona-eje-corporativo/190475055\"})": {
+                    "seoMetaTags({\"url\":\"/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473\"})": {
                         "__typename": "SeoMetaTags",
-                        "h1": "VENDO DEPARTAMENTO ZONA EJE CORPORATIVO",
-                        "title": "VENDO DEPARTAMENTO ZONA EJE CORPORATIVO. Ref #SF9F87",
+                        "h1": "Coqueta casa centrica con psicina  toda en una planta",
+                        "title": "Coqueta casa centrica con psicina  toda en una planta. Ref #Q3F5AD",
                         "breadcrumbs": [
                             {
                                 "__typename": "BreadCrumb",
@@ -119,189 +119,217 @@
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "Departamentos",
-                                "url": "/venta/departamentos"
+                                "text": "Casas",
+                                "url": "/venta/casas"
                             },
                             {
                                 "__typename": "BreadCrumb",
                                 "text": "Asunción",
-                                "url": "/venta/departamentos/asuncion"
+                                "url": "/venta/casas/asuncion"
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "San Jorge",
-                                "url": "/venta/departamentos/asuncion/san-jorge"
+                                "text": "Asunción",
+                                "url": "/venta/casas/asuncion/asuncion"
                             },
                             {
                                 "__typename": "BreadCrumb",
-                                "text": "VENDO DEPARTAMENTO ZONA EJE CORPORATIVO",
-                                "url": "/vendo-departamento-zona-eje-corporativo/190475055"
+                                "text": "Coqueta casa centrica con psicina  toda en una planta",
+                                "url": "/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473"
                             }
                         ],
-                        "url": "https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
-                        "description": "Vendo departamento en el Edificio ManantialesDepartamento totalmente equipado en pleno eje corporativo, a cuadras del Paseo la Galería, Shopping del S.... Ref #SF9F87",
-                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/22ec84e057cfa43b17d609593fac62f8d890f214.jpeg",
+                        "url": "https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
+                        "description": "Vendo vivienda Antigua céntrica en AsunciónUbicación : Chile Casi HumaitáDimensiones del terreno : 11 x 38Distribución\u0026nbsp;Adelante: con pequeño jardín de 6m x.... Ref #Q3F5AD",
+                        "og_image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9c68ef22_rn_image_picker_lib_temp_d24ecfaf-507f-4937-aa21-fa008e34737d.jpg",
                         "noindex": false,
-                        "canonical": "https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
+                        "canonical": "https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                         "site_name": "InfoCasas",
                         "links": {
                             "Ubicación": [
                                 {
                                     "text": "Herrera",
-                                    "url": "/venta/departamentos/asuncion/herrera/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/herrera/3-dormitorios"
                                 },
                                 {
                                     "text": "Villa Morra",
-                                    "url": "/venta/departamentos/asuncion/villa-morra/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/villa-morra/3-dormitorios"
                                 },
                                 {
                                     "text": "Ycuá Satí",
-                                    "url": "/venta/departamentos/asuncion/ycua-sati/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/ycua-sati/3-dormitorios"
                                 },
                                 {
                                     "text": "Ytay",
-                                    "url": "/venta/departamentos/asuncion/ytay/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/ytay/3-dormitorios"
                                 },
                                 {
                                     "text": "Cañada del Ybyray",
-                                    "url": "/venta/departamentos/asuncion/canada-del-ybyray/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/canada-del-ybyray/3-dormitorios"
                                 },
                                 {
                                     "text": "Las Carmelitas",
-                                    "url": "/venta/departamentos/asuncion/las-carmelitas/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/las-carmelitas/3-dormitorios"
                                 },
                                 {
                                     "text": "Las Lomas",
-                                    "url": "/venta/departamentos/asuncion/las-lomas/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/las-lomas/3-dormitorios"
                                 },
                                 {
                                     "text": "Manorá",
-                                    "url": "/venta/departamentos/asuncion/manora/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/manora/3-dormitorios"
                                 },
                                 {
                                     "text": "Mburucuyá",
-                                    "url": "/venta/departamentos/asuncion/mburucuya/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/mburucuya/3-dormitorios"
                                 },
                                 {
                                     "text": "Villa Aurelia",
-                                    "url": "/venta/departamentos/asuncion/villa-aurelia/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/villa-aurelia/3-dormitorios"
+                                },
+                                {
+                                    "text": "Terminal",
+                                    "url": "/venta/casas/asuncion/terminal/3-dormitorios"
                                 },
                                 {
                                     "text": "Asunción",
-                                    "url": "/venta/departamentos/asuncion/asuncion/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios"
                                 },
                                 {
                                     "text": "Los Laureles",
-                                    "url": "/venta/departamentos/asuncion/los-laureles/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/los-laureles/3-dormitorios"
                                 },
                                 {
                                     "text": "Mcal. Estigarribia",
-                                    "url": "/venta/departamentos/asuncion/mcal-estigarribia/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/mcal-estigarribia/3-dormitorios"
+                                },
+                                {
+                                    "text": "Nazareth",
+                                    "url": "/venta/casas/asuncion/nazareth/3-dormitorios"
                                 },
                                 {
                                     "text": "Recoleta",
-                                    "url": "/venta/departamentos/asuncion/recoleta/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/recoleta/3-dormitorios"
                                 },
                                 {
                                     "text": "San Jorge",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/san-jorge/3-dormitorios"
                                 },
                                 {
                                     "text": "San Pablo",
-                                    "url": "/venta/departamentos/asuncion/san-pablo/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/san-pablo/3-dormitorios"
                                 },
                                 {
                                     "text": "Sta. María",
-                                    "url": "/venta/departamentos/asuncion/sta-maria/1-dormitorio"
+                                    "url": "/venta/casas/asuncion/sta-maria/3-dormitorios"
                                 }
                             ],
                             "Propiedades en barrios cercanos": [
                                 {
-                                    "text": "Herrera",
-                                    "url": "/venta/departamentos/asuncion/herrera/1-dormitorio"
+                                    "text": "Cañada del Ybyray",
+                                    "url": "/venta/casas/asuncion/canada-del-ybyray/3-dormitorios"
                                 },
                                 {
-                                    "text": "Los Laureles",
-                                    "url": "/venta/departamentos/asuncion/los-laureles/1-dormitorio"
+                                    "text": "Las Carmelitas",
+                                    "url": "/venta/casas/asuncion/las-carmelitas/3-dormitorios"
                                 },
                                 {
-                                    "text": "Mcal. Estigarribia",
-                                    "url": "/venta/departamentos/asuncion/mcal-estigarribia/1-dormitorio"
+                                    "text": "Las Lomas",
+                                    "url": "/venta/casas/asuncion/las-lomas/3-dormitorios"
                                 },
                                 {
-                                    "text": "Recoleta",
-                                    "url": "/venta/departamentos/asuncion/recoleta/1-dormitorio"
+                                    "text": "Manorá",
+                                    "url": "/venta/casas/asuncion/manora/3-dormitorios"
                                 },
                                 {
-                                    "text": "San Pablo",
-                                    "url": "/venta/departamentos/asuncion/san-pablo/1-dormitorio"
+                                    "text": "Mburucuyá",
+                                    "url": "/venta/casas/asuncion/mburucuya/3-dormitorios"
                                 },
                                 {
-                                    "text": "Sta. María",
-                                    "url": "/venta/departamentos/asuncion/sta-maria/1-dormitorio"
+                                    "text": "Mme. Lynch",
+                                    "url": "/venta/casas/asuncion/mme-lynch/3-dormitorios"
                                 },
                                 {
-                                    "text": "Villa Aurelia",
-                                    "url": "/venta/departamentos/asuncion/villa-aurelia/1-dormitorio"
+                                    "text": "Salvador del Mundo",
+                                    "url": "/venta/casas/asuncion/salvador-del-mundo/3-dormitorios"
                                 },
                                 {
-                                    "text": "Villa Morra",
-                                    "url": "/venta/departamentos/asuncion/villa-morra/1-dormitorio"
+                                    "text": "Trinidad",
+                                    "url": "/venta/casas/asuncion/trinidad/3-dormitorios"
                                 },
                                 {
-                                    "text": "Ycuá Satí",
-                                    "url": "/venta/departamentos/asuncion/ycua-sati/1-dormitorio"
+                                    "text": "Virgen de la Asunción",
+                                    "url": "/venta/casas/asuncion/virgen-de-la-asuncion/3-dormitorios"
                                 },
                                 {
-                                    "text": "Ytay",
-                                    "url": "/venta/departamentos/asuncion/ytay/1-dormitorio"
+                                    "text": "De las Residentas",
+                                    "url": "/venta/casas/asuncion/de-las-residentas/3-dormitorios"
+                                },
+                                {
+                                    "text": "Mbocayaty",
+                                    "url": "/venta/casas/asuncion/mbocayaty/3-dormitorios"
+                                },
+                                {
+                                    "text": "Ñu Guazú",
+                                    "url": "/venta/casas/asuncion/nu-guazu/3-dormitorios"
+                                },
+                                {
+                                    "text": "Bella Vista",
+                                    "url": "/venta/casas/asuncion/bella-vista/3-dormitorios"
+                                },
+                                {
+                                    "text": "Mcal. López",
+                                    "url": "/venta/casas/asuncion/mcal-lopez/3-dormitorios"
                                 }
                             ],
                             "Características": [
                                 {
                                     "text": "Ofrecida por Dueño",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/dueno"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/dueno"
                                 },
                                 {
                                     "text": "Lujosos",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/lujosos"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/lujosos"
                                 },
                                 {
                                     "text": "Baratos",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/baratos"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/baratos"
                                 },
                                 {
                                     "text": "A estrenar",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/a-estrenar"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/a-estrenar"
                                 },
                                 {
                                     "text": "En construcción",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/en-construccion"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/en-construccion"
                                 },
                                 {
                                     "text": "Con balcón",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/con-balcon"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/con-balcon"
                                 },
                                 {
                                     "text": "Con garaje",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/con-garaje"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/con-garaje"
                                 },
                                 {
                                     "text": "Con parrillero",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/con-parrillero"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/con-parrillero"
                                 },
                                 {
                                     "text": "Con piscina",
-                                    "url": "/venta/departamentos/asuncion/san-jorge/1-dormitorio/con-piscina"
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/con-piscina"
+                                },
+                                {
+                                    "text": "Con jardín",
+                                    "url": "/venta/casas/asuncion/asuncion/3-dormitorios/con-jardin"
                                 }
                             ]
                         },
-                        "text": "VENDO DEPARTAMENTO ZONA EJE CORPORATIVO es un Departamento con 1 dormitorio, 1 baño y 55 m² construida en 2021. Grabadores del Kavichu'i esq. Emeterio Miranda . Se ubica en San Jorge, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por MR Inmobiliaria el 10 de agosto de 2023. El precio de Venta es de U$S 115.000",
+                        "text": "Coqueta casa centrica con psicina  toda en una planta es una Casa con 3 dormitorios, 3 baños y 150 m². Se ubica en Asunción, Asunción.Esta propiedad se encuentra disponible a la venta y fue ingresada por Casa Terra el 17 de febrero de 2025. El precio de Venta es de U$S 125.000",
                         "seoLanding": null,
                         "ios_app_id": null
                     },
-                    "property({\"id\":190475055})": {
-                        "__ref": "Property:190475055"
+                    "property({\"id\":192034473})": {
+                        "__ref": "Property:192034473"
                     },
                     "bannerShopping": null,
                     "bannerHeader({\"whereToShow\":\"propiedadesampliar\"})": null,
@@ -330,9 +358,9 @@
                         }
                     ],
                     "getDynamicIpPopupInfo": [],
-                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"190475055\"}})": [
+                    "bigData({\"getFirst\":1,\"params\":{\"page\":1,\"property_id\":\"192034473\"}})": [
                         {
-                            "__ref": "SearchBigData:106628"
+                            "__ref": "SearchBigData:98384"
                         }
                     ]
                 },
@@ -342,30 +370,30 @@
                     "name": "U$S",
                     "rate": 1
                 },
-                "Subsidiary:167991": {
+                "Subsidiary:2173": {
                     "__typename": "Subsidiary",
-                    "id": "167991",
+                    "id": "2173",
                     "name": "Casa central",
                     "masked_phone": "+5959",
-                    "address": "",
+                    "address": "Paraguay",
                     "office_hours": ""
                 },
-                "RealEstateAgent:173765558": {
+                "RealEstateAgent:133784": {
                     "__typename": "RealEstateAgent",
-                    "id": "173765558",
-                    "name": "MR Inmobiliaria",
-                    "masked_phone": "+595 ",
+                    "id": "133784",
+                    "name": "Casa Terra",
+                    "masked_phone": "+5959",
                     "has_whatsapp": true,
                     "active": true,
-                    "logo": "",
+                    "logo": "https://cdn2.infocasas.com.uy/repo/img/5a5fb5e223e65_casa-terra.jpg",
                     "inmoLink": null,
-                    "inmoPropsLink": "/inmobiliaria/mr-inmobiliaria/173765558",
+                    "inmoPropsLink": "/inmobiliaria/casa-terra/133784",
                     "inmofull": false,
                     "type": "inmobiliaria",
-                    "address": "",
+                    "address": "San Marcos 731 c Aztecas - Loma Merlo",
                     "subsidiaries": [
                         {
-                            "__ref": "Subsidiary:167991"
+                            "__ref": "Subsidiary:2173"
                         }
                     ]
                 },
@@ -374,36 +402,42 @@
                     "id": "21",
                     "name": "Asunción"
                 },
-                "Neighborhood:363": {
+                "Neighborhood:2827": {
                     "__typename": "Neighborhood",
-                    "id": "363",
-                    "name": "San Jorge",
+                    "id": "2827",
+                    "name": "Asunción",
                     "estate": {
                         "__ref": "Estate:21"
                     },
-                    "lat": -25.2821494,
-                    "long": -57.5505705
+                    "lat": -25.2637399,
+                    "long": -57.575926
                 },
-                "PropertyType:2": {
+                "PropertyType:1": {
                     "__typename": "PropertyType",
-                    "id": "2",
-                    "name": "Departamento"
+                    "id": "1",
+                    "name": "Casa"
                 },
                 "OperationType:1": {
                     "__typename": "OperationType",
                     "id": "1",
                     "name": "Venta"
                 },
-                "PropertyFacility:1": {
+                "PropertyFacility:4": {
                     "__typename": "PropertyFacility",
-                    "id": "1",
-                    "name": "Balcón",
+                    "id": "4",
+                    "name": "Calefón",
                     "group": "Confort del apartamento"
                 },
-                "PropertyFacility:13": {
+                "PropertyFacility:5": {
                     "__typename": "PropertyFacility",
-                    "id": "13",
-                    "name": "Parrillero / Barbacoa",
+                    "id": "5",
+                    "name": "Cochera",
+                    "group": "Confort del apartamento"
+                },
+                "PropertyFacility:7": {
+                    "__typename": "PropertyFacility",
+                    "id": "7",
+                    "name": "Dormitorio de servicio",
                     "group": "Confort del apartamento"
                 },
                 "PropertyFacility:14": {
@@ -417,36 +451,6 @@
                     "id": "15",
                     "name": "Placard en dormitorio",
                     "group": "Confort del apartamento"
-                },
-                "PropertyFacility:16": {
-                    "__typename": "PropertyFacility",
-                    "id": "16",
-                    "name": "Balcón / Terraza",
-                    "group": "Confort del apartamento"
-                },
-                "PropertyFacility:18": {
-                    "__typename": "PropertyFacility",
-                    "id": "18",
-                    "name": "Vestidor",
-                    "group": "Confort del apartamento"
-                },
-                "PropertyFacility:20": {
-                    "__typename": "PropertyFacility",
-                    "id": "20",
-                    "name": "Ascensor",
-                    "group": "Confort del edificio"
-                },
-                "PropertyFacility:21": {
-                    "__typename": "PropertyFacility",
-                    "id": "21",
-                    "name": "Barbacoa",
-                    "group": "Confort del edificio"
-                },
-                "PropertyFacility:23": {
-                    "__typename": "PropertyFacility",
-                    "id": "23",
-                    "name": "GYM",
-                    "group": "Confort del edificio"
                 },
                 "PropertyFacility:25": {
                     "__typename": "PropertyFacility",
@@ -472,22 +476,10 @@
                     "name": "Agua Caliente Central",
                     "group": "Instalaciones apartamento"
                 },
-                "PropertyFacility:33": {
-                    "__typename": "PropertyFacility",
-                    "id": "33",
-                    "name": "Calefacción Central",
-                    "group": "Instalaciones apartamento"
-                },
                 "PropertyFacility:34": {
                     "__typename": "PropertyFacility",
                     "id": "34",
                     "name": "Instalación de TV cable",
-                    "group": "Instalaciones apartamento"
-                },
-                "PropertyFacility:35": {
-                    "__typename": "PropertyFacility",
-                    "id": "35",
-                    "name": "Previsión A.A.",
                     "group": "Instalaciones apartamento"
                 },
                 "PropertyFacility:36": {
@@ -496,10 +488,16 @@
                     "name": "Aire Acondicionado",
                     "group": "Instalaciones apartamento"
                 },
-                "PropertyFacility:69": {
+                "PropertyFacility:45": {
                     "__typename": "PropertyFacility",
-                    "id": "69",
-                    "name": "Amueblada",
+                    "id": "45",
+                    "name": "Calefacción",
+                    "group": "Confort de la casa"
+                },
+                "PropertyFacility:70": {
+                    "__typename": "PropertyFacility",
+                    "id": "70",
+                    "name": "Jardin / Patio",
                     "group": "Confort de la casa"
                 },
                 "PropertyFacility:72": {
@@ -520,130 +518,118 @@
                     "name": "Living comedor",
                     "group": "Confort de la casa"
                 },
-                "PropertyFacility:220": {
-                    "__typename": "PropertyFacility",
-                    "id": "220",
-                    "name": "Piso porcelanato",
-                    "group": "Confort de la casa"
-                },
-                "Image:86388444": {
+                "Image:208136032": {
                     "__typename": "Image",
-                    "id": "86388444",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/22ec84e057cfa43b17d609593fac62f8d890f214.jpeg",
+                    "id": "208136032",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9c68ef22_rn_image_picker_lib_temp_d24ecfaf-507f-4937-aa21-fa008e34737d.jpg",
                     "tag": ""
                 },
-                "Image:86388451": {
+                "Image:208136040": {
                     "__typename": "Image",
-                    "id": "86388451",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/4207c26e679739d703779b4eca3f6d657bd1a096.jpeg",
+                    "id": "208136040",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9cab334f_rn_image_picker_lib_temp_260d9b57-f47f-4e82-9030-029d9e28ee05.jpg",
                     "tag": ""
                 },
-                "Image:86388458": {
+                "Image:208136049": {
                     "__typename": "Image",
-                    "id": "86388458",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/093429fa1fd61d4e397da92262e99105b4eb6845.jpeg",
+                    "id": "208136049",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9cf0baa3_rn_image_picker_lib_temp_151d45a4-4b97-4566-92e4-69f87ef2b6bd.jpg",
                     "tag": ""
                 },
-                "Image:86388464": {
+                "Image:208136054": {
                     "__typename": "Image",
-                    "id": "86388464",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/2a8808eefcd5f95b77e7c4909fe0c0c10a48189d.jpeg",
+                    "id": "208136054",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9d32fe70_rn_image_picker_lib_temp_f494d6d1-d949-4398-b25d-5d9d208d1278.jpg",
                     "tag": ""
                 },
-                "Image:86388469": {
+                "Image:208136055": {
                     "__typename": "Image",
-                    "id": "86388469",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/6baa2f57841b4dc232adf1c4919beb5308acbe42.jpeg",
+                    "id": "208136055",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9d74c0c2_rn_image_picker_lib_temp_1d205fc1-7bd6-4871-922a-80b9856aec0d.jpg",
                     "tag": ""
                 },
-                "Image:86388474": {
+                "Image:208136056": {
                     "__typename": "Image",
-                    "id": "86388474",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/ee0ea2f15cf6ba62f44efc874ed33a6612adb038.jpeg",
+                    "id": "208136056",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9da8b369_rn_image_picker_lib_temp_1f896951-754c-4f5a-b6f9-730d8780c52f.jpg",
                     "tag": ""
                 },
-                "Image:86388479": {
+                "Image:208136057": {
                     "__typename": "Image",
-                    "id": "86388479",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/d7d79f01b49cc31ded1afea7dc3e2d7ff827d25a.jpeg",
+                    "id": "208136057",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9dd65ae6_rn_image_picker_lib_temp_f61ef142-96d3-4d40-802c-9078aaee4417.jpg",
                     "tag": ""
                 },
-                "Image:86388502": {
+                "Image:208136061": {
                     "__typename": "Image",
-                    "id": "86388502",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/99638af29c449a1d6b52048db3734975a64b2d5d.jpeg",
+                    "id": "208136061",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9e17d3d2_rn_image_picker_lib_temp_e173016c-bdeb-4b51-a906-2dc5ec676a49.jpg",
                     "tag": ""
                 },
-                "Image:86388507": {
+                "Image:208136066": {
                     "__typename": "Image",
-                    "id": "86388507",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/0960ed03b2e662ebce665a15e5cafd27ccbf5eb4.jpeg",
+                    "id": "208136066",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9e3efa5d_rn_image_picker_lib_temp_840cca11-e325-453f-90aa-1ae5ca4f67d5.jpg",
                     "tag": ""
                 },
-                "Image:86388434": {
+                "Image:208136067": {
                     "__typename": "Image",
-                    "id": "86388434",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/474be2718e235047e21cb674473e88527283bcf8.jpeg",
+                    "id": "208136067",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9e80354d_rn_image_picker_lib_temp_471e619c-1de5-4f3b-ac51-37081d1dd5db.jpg",
                     "tag": ""
                 },
-                "Image:86388439": {
+                "Image:208136068": {
                     "__typename": "Image",
-                    "id": "86388439",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/273d61881a04c51a892a21e80a0ff5915782a477.jpeg",
+                    "id": "208136068",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9eb8986f_rn_image_picker_lib_temp_dd50e444-c72b-4727-b964-dc29e6513e28.jpg",
                     "tag": ""
                 },
-                "Image:86388526": {
+                "Image:208136069": {
                     "__typename": "Image",
-                    "id": "86388526",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/0da7e80677a21a69b057116b70fd680ac81b3b40.jpeg",
+                    "id": "208136069",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9eed12ff_rn_image_picker_lib_temp_07ee5de9-cc17-43de-997b-e29e20979b80.jpg",
                     "tag": ""
                 },
-                "Image:86388428": {
+                "Image:208136070": {
                     "__typename": "Image",
-                    "id": "86388428",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/c0c35edf634eb251b3bde1672b4a824d27b95c8d.jpeg",
+                    "id": "208136070",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9f2cf9fe_rn_image_picker_lib_temp_5e9da430-c458-4912-ac39-9ba06f817ad3.jpg",
                     "tag": ""
                 },
-                "Image:86388530": {
+                "Image:208136071": {
                     "__typename": "Image",
-                    "id": "86388530",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/8c9af5c4526d0afb0eb3fb999113880876cfb9af.jpeg",
+                    "id": "208136071",
+                    "image": "https://cdn2.infocasas.com.uy/repo/img/67b3c9f6247ae_rn_image_picker_lib_temp_da431696-73fa-4709-8cae-18bb5f11263a.jpg",
                     "tag": ""
                 },
-                "Image:86388730": {
-                    "__typename": "Image",
-                    "id": "86388730",
-                    "image": "https://cdn2.infocasas.com.uy/repo/img/a53e2cf4e8be08584e4c328bfbe2e425cef6ade8.jpeg",
-                    "tag": ""
-                },
-                "Property:190475055": {
+                "Property:192034473": {
                     "__typename": "Property",
-                    "id": "190475055",
-                    "title": "VENDO DEPARTAMENTO ZONA EJE CORPORATIVO",
-                    "typeID": 2,
-                    "address": "Grabadores del Kavichu'i esq. Emeterio Miranda ",
+                    "id": "192034473",
+                    "title": "Coqueta casa centrica con psicina  toda en una planta",
+                    "typeID": 1,
+                    "address": "",
                     "showAddress": true,
                     "country_id": 2,
-                    "description": "\u003cp\u003eVendo departamento en el Edificio Manantiales\u003c/p\u003e\u003cp\u003eDepartamento totalmente equipado en pleno eje corporativo, a cuadras del Paseo la Galería, Shopping del Sol, World Trade Center.\u003c/p\u003e\u003cp\u003e1 dormitorio, 55m2 propios.\u003c/p\u003e\u003cp\u003eCochera incluida \u003c/p\u003e\u003cp\u003eEquipamiento incluido\u003c/p\u003e\u003cp\u003eCocina definida con pasa plato\u003c/p\u003e\u003cp\u003eLiving comedor\u003c/p\u003e\u003cp\u003eBalcón\u003c/p\u003e\u003cp\u003eAmenities: Piscina, parrillero, gimnasio, lavadero\u003c/p\u003e\u003cp\u003ePortería 24hs\u003c/p\u003e\u003cp\u003eCámara de seguridad\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e \u003c/p\u003e",
-                    "code": "SF9F87",
+                    "description": "Vendo vivienda Antigua céntrica en AsunciónUbicación : Chile Casi HumaitáDimensiones del terreno : 11 x 38Distribución\u0026nbsp;Adelante: con pequeño jardín de 6m x 6 con murallaCochera cubierta para 2 autosAcceso recibidor de 3m x 5Sala comedor de 8,5 x 4mDormitorio 1) 3m x 3m contiguo a patio interno\u0026nbsp;Dormitorio 2) 4x5m en suite y contiguo a patio interno con A.A.Dormitorio 3) 4,5 x 4,5 con vista a la cochera con A.A.Baño compartido\u0026nbsp;Dormitorio 4) 4,5 x 4,5m con vista a patio de cocina con A.A.Cocina comedor de 3,5 x 7mDeposito 7m x 4 con baño\u0026nbsp;Patio posterior con pileta de 5,5 x 2,5 profundidad 1,10Tiene trifásica, Essap , documentos al diaPorton eléctricoUsd 125.000",
+                    "code": "Q3F5AD",
                     "code2": null,
                     "finances": false,
                     "grouped_ids": null,
-                    "img": "https://cdn2.infocasas.com.uy/repo/img/22ec84e057cfa43b17d609593fac62f8d890f214.jpeg",
+                    "img": "https://cdn2.infocasas.com.uy/repo/img/67b3c9c68ef22_rn_image_picker_lib_temp_d24ecfaf-507f-4937-aa21-fa008e34737d.jpg",
                     "price": {
                         "__typename": "Price",
-                        "amount": 115000,
+                        "amount": 125000,
                         "currency": {
                             "__ref": "Currency:1"
                         },
                         "hidePrice": false
                     },
-                    "price_amount_usd": 115000,
+                    "price_amount_usd": 125000,
                     "owner": {
-                        "__ref": "RealEstateAgent:173765558"
+                        "__ref": "RealEstateAgent:133784"
                     },
                     "neighborhood": {
-                        "__ref": "Neighborhood:363"
+                        "__ref": "Neighborhood:2827"
                     },
                     "estate": {
                         "__ref": "Estate:21"
@@ -653,25 +639,25 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "code",
-                            "value": "SF9F87",
+                            "value": "Q3F5AD",
                             "text": "Referencia"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "property_type_name",
-                            "value": "Departamento",
+                            "value": "Casa",
                             "text": "Tipo de Propiedad"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "neighborhood_name",
-                            "value": "San Jorge",
+                            "value": "Asunción",
                             "text": "Zona"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "construction_state_name",
-                            "value": "Excelente estado",
+                            "value": "Buen estado",
                             "text": "Estado"
                         },
                         {
@@ -683,13 +669,13 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "bathrooms",
-                            "value": "1",
+                            "value": "3",
                             "text": "Baños"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "m2Built",
-                            "value": "55 m2",
+                            "value": "150 m2",
                             "text": "M² edificados"
                         },
                         {
@@ -707,13 +693,13 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "constructionYear",
-                            "value": "2021",
+                            "value": "",
                             "text": "Año de Construcción"
                         },
                         {
                             "__typename": "TechnicalSheet",
                             "field": "bedrooms",
-                            "value": "1",
+                            "value": "3",
                             "text": "Dormitorios"
                         },
                         {
@@ -725,7 +711,7 @@
                         {
                             "__typename": "TechnicalSheet",
                             "field": "story",
-                            "value": "1",
+                            "value": "",
                             "text": "Plantas"
                         },
                         {
@@ -739,30 +725,6 @@
                             "field": "condominio",
                             "value": "",
                             "text": "Barrio Privado"
-                        },
-                        {
-                            "__typename": "TechnicalSheet",
-                            "field": "commonExpenses",
-                            "value": "",
-                            "text": "Gastos Comunes"
-                        },
-                        {
-                            "__typename": "TechnicalSheet",
-                            "field": "floor",
-                            "value": "",
-                            "text": "Piso"
-                        },
-                        {
-                            "__typename": "TechnicalSheet",
-                            "field": "apartsPerFloor",
-                            "value": "",
-                            "text": "Apartamentos por Pisos"
-                        },
-                        {
-                            "__typename": "TechnicalSheet",
-                            "field": "floorsAmount",
-                            "value": "",
-                            "text": "Cantidad de Pisos"
                         },
                         {
                             "__typename": "TechnicalSheet",
@@ -783,12 +745,12 @@
                             "text": "Vivienda Social"
                         }
                     ],
-                    "image_count": 15,
+                    "image_count": 14,
                     "file_count": 0,
-                    "imgSize": 250461,
-                    "link": "vendo-departamento-zona-eje-corporativo/190475055",
+                    "imgSize": 319842,
+                    "link": "coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                     "property_type": {
-                        "__ref": "PropertyType:2"
+                        "__ref": "PropertyType:1"
                     },
                     "operation_type": {
                         "__ref": "OperationType:1"
@@ -796,31 +758,19 @@
                     "barter": false,
                     "facilities": [
                         {
-                            "__ref": "PropertyFacility:1"
+                            "__ref": "PropertyFacility:4"
                         },
                         {
-                            "__ref": "PropertyFacility:13"
+                            "__ref": "PropertyFacility:5"
+                        },
+                        {
+                            "__ref": "PropertyFacility:7"
                         },
                         {
                             "__ref": "PropertyFacility:14"
                         },
                         {
                             "__ref": "PropertyFacility:15"
-                        },
-                        {
-                            "__ref": "PropertyFacility:16"
-                        },
-                        {
-                            "__ref": "PropertyFacility:18"
-                        },
-                        {
-                            "__ref": "PropertyFacility:20"
-                        },
-                        {
-                            "__ref": "PropertyFacility:21"
-                        },
-                        {
-                            "__ref": "PropertyFacility:23"
                         },
                         {
                             "__ref": "PropertyFacility:25"
@@ -832,25 +782,19 @@
                             "__ref": "PropertyFacility:31"
                         },
                         {
-                            "__ref": "PropertyFacility:31"
-                        },
-                        {
                             "__ref": "PropertyFacility:32"
-                        },
-                        {
-                            "__ref": "PropertyFacility:33"
                         },
                         {
                             "__ref": "PropertyFacility:34"
                         },
                         {
-                            "__ref": "PropertyFacility:35"
-                        },
-                        {
                             "__ref": "PropertyFacility:36"
                         },
                         {
-                            "__ref": "PropertyFacility:69"
+                            "__ref": "PropertyFacility:45"
+                        },
+                        {
+                            "__ref": "PropertyFacility:70"
                         },
                         {
                             "__ref": "PropertyFacility:72"
@@ -860,68 +804,62 @@
                         },
                         {
                             "__ref": "PropertyFacility:218"
-                        },
-                        {
-                            "__ref": "PropertyFacility:220"
                         }
                     ],
-                    "m2": 55,
-                    "hectares": 0,
-                    "created_at": "2023-08-10",
-                    "updated_at": "2024-06-14",
-                    "latitude": -25.281158764889806,
+                    "m2": 150,
+                    "hectares": null,
+                    "created_at": "2025-02-17",
+                    "updated_at": "2025-02-17",
+                    "latitude": -25.287601140696374,
                     "images": [
                         {
-                            "__ref": "Image:86388444"
+                            "__ref": "Image:208136032"
                         },
                         {
-                            "__ref": "Image:86388451"
+                            "__ref": "Image:208136040"
                         },
                         {
-                            "__ref": "Image:86388458"
+                            "__ref": "Image:208136049"
                         },
                         {
-                            "__ref": "Image:86388464"
+                            "__ref": "Image:208136054"
                         },
                         {
-                            "__ref": "Image:86388469"
+                            "__ref": "Image:208136055"
                         },
                         {
-                            "__ref": "Image:86388474"
+                            "__ref": "Image:208136056"
                         },
                         {
-                            "__ref": "Image:86388479"
+                            "__ref": "Image:208136057"
                         },
                         {
-                            "__ref": "Image:86388502"
+                            "__ref": "Image:208136061"
                         },
                         {
-                            "__ref": "Image:86388507"
+                            "__ref": "Image:208136066"
                         },
                         {
-                            "__ref": "Image:86388434"
+                            "__ref": "Image:208136067"
                         },
                         {
-                            "__ref": "Image:86388439"
+                            "__ref": "Image:208136068"
                         },
                         {
-                            "__ref": "Image:86388526"
+                            "__ref": "Image:208136069"
                         },
                         {
-                            "__ref": "Image:86388428"
+                            "__ref": "Image:208136070"
                         },
                         {
-                            "__ref": "Image:86388530"
-                        },
-                        {
-                            "__ref": "Image:86388730"
+                            "__ref": "Image:208136071"
                         }
                     ],
                     "files": [],
-                    "source": 0,
+                    "source": 5,
                     "project": [],
-                    "color": 3,
-                    "longitude": -57.55888581341424,
+                    "color": 2,
+                    "longitude": -57.63864766806363,
                     "pausd": false,
                     "pointType": false,
                     "zoom": 15,
@@ -929,16 +867,16 @@
                     "highlight": 10,
                     "active": true,
                     "deleted": false,
-                    "relevance": 95.1115,
-                    "construction_year": "2021",
+                    "relevance": 94.9087,
+                    "construction_year": null,
                     "notes": "",
                     "sold": false,
                     "soldDate": "0000-00-00",
                     "discount": null,
                     "draft": false,
                     "sign": null,
-                    "guarantee": "",
-                    "facilitiesNotApply": false,
+                    "guarantee": null,
+                    "facilitiesNotApply": true,
                     "commonExpenses": null,
                     "price_variation": null,
                     "ceCurrencyID": null,
@@ -948,7 +886,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "twitter",
                             "name": "twitter",
-                            "url": "https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
+                            "url": "https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                             "icon": "icon-twitter",
                             "order": null
                         },
@@ -956,7 +894,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "linkedin",
                             "name": "linkedin",
-                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
+                            "url": "https://www.linkedin.com/shareArticle?mini=true\u0026url=https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                             "icon": "icon-linkedin",
                             "order": null
                         },
@@ -964,7 +902,7 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "facebook",
                             "name": "facebook",
-                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
+                            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                             "icon": "icon-facebook-1",
                             "order": null
                         },
@@ -972,27 +910,27 @@
                             "__typename": "SocialMediaLinks",
                             "slug": "email",
                             "name": "email",
-                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/vendo-departamento-zona-eje-corporativo/190475055",
+                            "url": "mailto:?subject=PropiedadRecomendada-InfoCasas\u0026body=LinkdelaPropiedad:https://www.infocasas.com.py/coqueta-casa-centrica-con-psicina-toda-en-una-planta/192034473",
                             "icon": "icon-mail",
                             "order": null
                         }
                     ],
-                    "m2Built": 55,
+                    "m2Built": 150,
                     "garage": 1,
                     "office": false,
                     "dispositionID": 2,
-                    "bathrooms": 1,
-                    "bedrooms": 1,
-                    "rooms": 2,
+                    "bathrooms": 3,
+                    "bedrooms": 3,
+                    "rooms": 4,
                     "seaview": false,
                     "livingPlace": false,
                     "condominium": false,
                     "frontLength": "",
                     "floorsCount": 0,
-                    "m2apto": 0,
+                    "m2apto": null,
                     "apartmentsPerFloor": 0,
                     "floor": null,
-                    "neighborhood_id": 363,
+                    "neighborhood_id": 2827,
                     "estate_id": 21,
                     "farmhouse": false,
                     "allowedHeight": "",
@@ -1004,7 +942,7 @@
                     "temporal_price": null,
                     "temporal_currency": null,
                     "seaDistanceName": null,
-                    "tour3d": ""
+                    "tour3d": null
                 },
                 "Country:7": {
                     "__typename": "Country",
@@ -1083,14 +1021,14 @@
                         "country_flag": "https://cdn1.infocasas.com.uy/web/5e8b8f7468f29_infocdn__bandera_ceee.png"
                     }
                 },
-                "SearchBigData:106628": {
+                "SearchBigData:98384": {
                     "__typename": "SearchBigData",
-                    "id": "106628",
-                    "count_results": 14,
-                    "created_at": "2021-04-10 22:32:40",
-                    "avg_price_m2": 2143.49,
-                    "avg_price": 110000,
-                    "avg_time_in_market": 200,
+                    "id": "98384",
+                    "count_results": 34,
+                    "created_at": "2021-04-10 22:21:48",
+                    "avg_price_m2": 633.33,
+                    "avg_price": 220000,
+                    "avg_time_in_market": 432,
                     "currency": {
                         "__typename": "Currency",
                         "name": "U$S"
@@ -1102,7 +1040,7 @@
     },
     "page": "/propSingle",
     "query": {
-        "hashed": "eyJpZCI6MTkwNDc1MDU1LCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
+        "hashed": "eyJpZCI6MTkyMDM0NDczLCJjb25maWdzIjp7ImNvdW50cnlfaWQiOiIyIiwiY291bnRyeV9uYW1lIjoiUGFyYWd1YXkiLCJjb3VudHJ5X2NhcGl0YWwiOiJBc3VuY2nDs24iLCJjb3VudHJ5X2NhcGl0YWxfaWQiOjIxLCJjb3VudHJ5X2NvZGUiOiJQWSIsInNpdGVfbmFtZSI6IkluZm9DYXNhcyIsImxvZ28iOiJodHRwczovL2NkbjIuaW5mb2Nhc2FzLmNvbS51eS93ZWIvNWVlMzcyMmJkZWMwNV9pbmZvY2RuX19sb2dvLWluZm9jYXNhc0AyeC5wbmciLCJpbmZvcm1hdGlvbl9lbWFpbCI6ImluZm9AaW5mb2Nhc2FzLmNvbS5weSIsInNhbGVzX2VtYWlsIjoidmVudGFzQGluZm9jYXNhcy5jb20ucHkiLCJtYWluX2RvbWFpbiI6Ind3dy5pbmZvY2FzYXMuY29tLnB5IiwicGhvbmUiOiIoKzU5NSkgOTgxIDQyNCA4NzYiLCJjdXJyZW5jeSI6eyJpZCI6IjMiLCJuYW1lIjoiR3MuIn0sInRpbWV6b25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsIklWQSI6MC4xLCJhbmFseXRpY3NfaWQiOiJVQS00MjQ3NjYwOC0zIiwiZ29vZ2xlX3RhZ19tYW5hZ2VyX2lkIjoiR1RNLVc5SDRNSzYiLCJydGJfaWQiOiJwcl9nUElOYU02ZGRCUldxVkVvbTlFayIsIm9uZXNpZ25hbF9jb25maWd1cmF0aW9uIjp7ImFwcF9pZCI6IjY0Y2I3ZjZmLTI3ZjItNGJjNy04ZjQxLTRjNWJiYTQwNWQ0MSJ9LCJmYWNlYm9va19jb25maWd1cmF0aW9uIjp7InBpeGVsX2lkIjoiMTUyNDQ3MDQ4MTE4ODQ0MyJ9LCJwaW50ZXJlc3RfaWQiOiI4MGIyNjY4YmM1M2U0YjJhYTIxMmJlM2MyMTY3YzkyYSIsImluc3RhZ3JhbV9jbGllbnRfaWQiOiIxMjY2MTkxMzEwMTAyOTMxIiwic29jaWFsTWVkaWFMaW5rcyI6W3sic2x1ZyI6IkluZm9DYXNhcyIsIm5hbWUiOiJZb3VUdWJlIiwidXJsIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2FLY0V0dk1zWG01a1BpX0stX1lISUEiLCJpY29uIjoiaWNvbi15b3V0dWJlIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9pbmZvY2FzYXNweS8iLCJpY29uIjoiaWNvbi1pbnN0YWdyYW0ifSx7InNsdWciOiJJbmZvQ2FzYXNQWSIsIm5hbWUiOiJMaW5rZWRJbiIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2luZm9jYXNhcyIsImljb24iOiJpY29uLWxpbmtlZGluIn0seyJzbHVnIjoiSW5mb0Nhc2FzUFkiLCJuYW1lIjoiRmFjZWJvb2siLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vSW5mb0Nhc2FzUFkiLCJpY29uIjoiaWNvbi1mYWNlYm9vay0xIn1dLCJoZWFkZXJfbGlua3MiOlt7ImlkIjoiNiIsInRpdGxlIjoiVmVudGEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS92ZW50YS9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiNyIsInRpdGxlIjoiQWxxdWlsZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9hbHF1aWxlci9pbm11ZWJsZXMvYXN1bmNpb24ifSx7ImlkIjoiOCIsInRpdGxlIjoiUHJveWVjdG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvcHJveWVjdG9zIn0seyJpZCI6IjI1IiwidGl0bGUiOiJJbm1vYmlsaWFyaWFzIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvaW5tb2JpbGlhcmlhcyJ9LHsiaWQiOiIzOCIsInRpdGxlIjoiTm90aWNpYXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5mb2Nhc2FzLmNvbS5weS9ibG9nLyJ9LHsiaWQiOiIzOSIsInRpdGxlIjoiSG9tZUZlc3QiLCJsaW5rIjoiaHR0cDovL3d3dy5ob21lZmVzdC5jb20ucHkvIn0seyJpZCI6IjU0IiwidGl0bGUiOiJFdmVudG9zIiwibGluayI6Imh0dHBzOi8vd3d3LmluZm9jYXNhcy5jb20ucHkvZXZlbnRvcyJ9XX19"
     },
     "buildId": "wX2rNFPxBY1JYSj3bem28",
     "assetPrefix": "https://cdn2.infocasas.com.uy/frontend/2821",

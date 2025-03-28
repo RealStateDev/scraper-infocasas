@@ -3,6 +3,8 @@ import prisma from "../prisma"; // al inicio del archivo
 
 
 interface PropertyData {
+  es_casa: boolean;
+  es_departamento: boolean;
   titulo: string;
   precio: number;
   zona?: string;
@@ -73,8 +75,31 @@ export const scrapeMultiplePages = async (
         const getFromSheet = (field: string): string | undefined => {
           return property.technicalSheet?.find((x: any) => x.field === field)?.value;
         };
+
+        //Comprobacion de valores Booleanos
+          let esCasa = false;
+          let esDepartamento = false;
+
+
+          switch (getFromSheet("property_type_name") || property.property_type?.name) {
+            case "Departamento":
+               esCasa = false;
+               esDepartamento = true;
+              break;
+
+            case "Casa":
+               esCasa = true;
+               esDepartamento = false;
+              break;
+          
+            default:
+              break;
+          }
+        //
         
         const data: PropertyData = {
+          es_casa: esCasa,
+          es_departamento: esDepartamento,
           titulo: property.title,
           precio: property.price?.amount || 0,
           zona: getFromSheet("neighborhood_name") || property.neighborhood?.name,
