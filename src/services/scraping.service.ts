@@ -1,32 +1,12 @@
 import puppeteer from "puppeteer";
-import prisma from "../prisma"; // al inicio del archivo
-
-
-interface PropertyData {
-  es_casa: boolean;
-  es_departamento: boolean;
-  titulo: string;
-  precio: number;
-  zona?: string;
-  dormitorios?: number;
-  banos?: number;
-  tipo_propiedad?: string;
-  estado_propiedad?: string;
-  garajes?: number;
-  m2_edificados?: number;
-  m2_terreno?: number;
-  plantas?: number;
-  descripcion?: string;
-  latitud?: number;
-  longitud?: number;
-  url?: string;
-  comodidades?: string;
-  currency?: string;
-}
+import prisma from "../prisma"; 
+import { PropertyData } from "../types/generalTypes"; 
+import { ScrapigUrl } from "../types/URLs";
 
 export const scrapeMultiplePages = async (
   startPage: number = 2,
-  endPage: number = 2
+  endPage: number = 2,
+  searchParams: ScrapigUrl
 ): Promise<PropertyData[]> => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
@@ -34,7 +14,7 @@ export const scrapeMultiplePages = async (
   const results: PropertyData[] = [];
 
   for (let pageNum = startPage; pageNum <= endPage; pageNum++) {
-    const listUrl = `https://www.infocasas.com.py/venta/casas/asuncion/pagina${pageNum}?&ordenListado=3`;
+    const listUrl = searchParams.getUrl + `/pagina${pageNum}?&ordenListado=3`;
     console.log(`🌐 Visitando página: ${listUrl}`);
 
     await page.goto(listUrl, { waitUntil: "domcontentloaded" });
@@ -96,6 +76,27 @@ export const scrapeMultiplePages = async (
               break;
           }
         //
+
+        //currency
+        const currency_ref = property.price?.currency?.__ref;
+        let currencySymbol : string = "Gs.";
+
+        switch (currency_ref) {
+          case "Currency:1":
+            currencySymbol = "U$S"
+            break;
+
+          case "Currency:3":
+            currencySymbol = "Gs."
+            break;
+        
+          default:
+            break;
+        }
+
+      
+
+        //currency
         
         const data: PropertyData = {
           es_casa: esCasa,
@@ -116,7 +117,8 @@ export const scrapeMultiplePages = async (
           longitud: property.longitude,
           url: `https://www.infocasas.com.py/${property.link}`,
           comodidades: facilities.map((f: any) => apollo[f.__ref]?.name).join(", "),
-          currency: property.price?.currency?.name || "Gs.",
+          currency: currencySymbol,
+          ciudad: searchParams.city
         };
         await prisma.propiedades_scraping.create({
           data: {

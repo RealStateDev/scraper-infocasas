@@ -13,11 +13,27 @@
 > Ejecutar para probar la conexion: 
 * npx prisma studio
 
+> Comando Util: Sicronizar tablas sin borrar(cada vez que se haga un cambio en la bd se debe de correr este comando)
+* npx prisma db push
+
 *Si se abre el prisma estudio, la conexion con la base de datos fue exitosa.*
 
 #### Iniciar el Servidor Express.js local:   
 > Ejecutar comando:
 * npx ts-node src/server.ts
+
+#### Probar la api:   
+> Ejecutar en Postman:
+* GET http://localhost:5000/api/scraping/start?start=2&end=2 
+* Estructura del  Body: Para ver los valores que deben tener Json,vea el tipo SearchParams en generalTypes.tsx
+ <
+   {
+    "tranType": "venta" ,
+    "propType": "duplex" ,
+    "city": "luque" 
+   }
+ >
+  
 
 
 

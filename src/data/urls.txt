@@ -1,0 +1,35 @@
+  /*Asuncion 
+
+https://www.infocasas.com.py/venta/casas/asuncion
+https://www.infocasas.com.py/venta/departamentos/asuncion
+https://www.infocasas.com.py/venta/terrenos/asuncion
+https://www.infocasas.com.py/venta/locales-comerciales/asuncion
+https://www.infocasas.com.py/venta/oficinas/asuncion
+https://www.infocasas.com.py/venta/chacras-o-campos/asuncion
+https://www.infocasas.com.py/venta/duplex/asuncion
+https://www.infocasas.com.py/venta/edificios-u-hoteles/asuncion
+
+https://www.infocasas.com.py/alquiler/edificios-u-hoteles/asuncion
+https://www.infocasas.com.py/alquiler/casas/asuncion
+
+name list 
+
+asuncion
+pedro-juan-caballero
+capiata
+san-lorenzo
+nemby
+lambare
+luque
+ciudad-del-este
+concepcion
+encarnacion
+aregua
+caacupe
+villarrica
+villa-hayes
+coronel-oviedo
+mariano-roque-alonso
+limpio
+ita
+san-bernardino*/
