@@ -1,3 +1,6 @@
+import { JwtPayload } from "jsonwebtoken";
+
+
 export interface PropertyData {
     es_casa: boolean;
     es_departamento: boolean;
@@ -59,3 +62,11 @@ export type CityList =
   | "limpio"
   | "ita"
   | "san-bernardino";
+
+  declare global {
+    namespace Express {
+      interface Request {
+        user?: string | JwtPayload;
+      }
+    }
+  }
