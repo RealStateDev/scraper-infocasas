@@ -6,6 +6,7 @@ import authRoutes from "./routes/auth.routes";
 import profileRoutes from "./routes/profile.routes";
 import propiedadesRoutes from "./routes/propiedades.routes";
 import favoritosRoutes from "./routes/favoritos.routes";
+import busquedasRouter from "./routes/busquedas.routes";
 
 
 dotenv.config();
@@ -20,6 +21,7 @@ app.use("/api/auth", authRoutes);
 app.use("/api", profileRoutes);
 app.use("/api", propiedadesRoutes);
 app.use("/api", favoritosRoutes);
+app.use("/api", busquedasRouter);
 
 const PORT = process.env.PORT || 5000;
 
