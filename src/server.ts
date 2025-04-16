@@ -5,7 +5,7 @@ import scrapingRoutes from "./routes/scraping.routes";
 import authRoutes from "./routes/auth.routes";
 import profileRoutes from "./routes/profile.routes";
 import propiedadesRoutes from "./routes/propiedades.routes";
-
+import favoritosRoutes from "./routes/favoritos.routes";
 
 
 dotenv.config();
@@ -19,6 +19,7 @@ app.use("/api/scraping", scrapingRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api", profileRoutes);
 app.use("/api", propiedadesRoutes);
+app.use("/api", favoritosRoutes);
 
 const PORT = process.env.PORT || 5000;
 
