@@ -106,11 +106,35 @@ model suscripciones {
 
 model usuarios {
   id             Int             @id @default(autoincrement())
-  nombre         String          @db.VarChar(255)
-  email          String          @unique @db.VarChar(255)
+  nombre         String
+  email          String          @unique
   password_hash  String
-  fecha_registro DateTime?       @default(now()) @db.Timestamp(6)
+  fecha_registro DateTime?       @default(now())
   busquedas      busquedas[]
   favoritos      favoritos[]
   suscripciones  suscripciones[]
+  chats          chats[]         
+}
+
+
+model chats {
+  id         Int       @id @default(autoincrement())
+  usuario_id Int?      // null si es anónimo
+  fecha      DateTime  @default(now())
+  mensajes   mensajes[]
+  usuarios   usuarios? @relation(fields: [usuario_id], references: [id], onDelete: Cascade)
+}
+
+model mensajes {
+  id         Int          @id @default(autoincrement())
+  chat_id    Int
+  contenido  String
+  tipo       MensajeTipo
+  fecha      DateTime     @default(now())
+  chats      chats        @relation(fields: [chat_id], references: [id], onDelete: Cascade)
+}
+
+enum MensajeTipo {
+  usuario
+  bot
 }
