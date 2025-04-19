@@ -3,6 +3,8 @@ import {
   createChat,
   addMessageToChat,
   getChatHistory,
+  getChatsByUser,
+  deleteChat
 } from "../controllers/chat.controller";
 import { verifyToken } from "../middleware/verifyToken";
 
@@ -16,5 +18,11 @@ router.post("/chats/:id/mensajes", addMessageToChat);
 
 // Obtener historial de un chat
 router.get("/chats/:id", getChatHistory);
+
+// Obtener chats de un usuario
+router.get("/chatsByUser/:userId", getChatsByUser);
+
+//Eliminar chats
+router.delete("/chats/:id", deleteChat);
 
 export default router;

@@ -5,7 +5,11 @@ export const getAllFavorites = async (_req:Request, res:Response) : Promise<any>
     const favoritos = await prisma.favoritos.findMany({
         include:{propiedades:true, usuarios:true}
     });
-    res.json(favoritos);
+    if (!favoritos) {
+        return res.status(404).json({code:0, message: "No hay favoritos registrados" });
+    }
+    const FavoritosFormatted = {code:1, favoritosList:favoritos, favoritosCount:favoritos.length};
+    res.json(FavoritosFormatted);
 }
 
 export const getFavoriteById = async (req:Request, res:Response) : Promise<any> => {
@@ -16,9 +20,10 @@ export const getFavoriteById = async (req:Request, res:Response) : Promise<any> 
     });
     if (!favoritoById) 
     {
-        return res.status(404).json({ message:"Favorito no encontrado"});      
+        return res.status(404).json({ code:0,message:"Favorito no encontrado"});      
     }
-    res.json(favoritoById);
+    const favoritoByIdFormatted = {code:1, data:favoritoById}
+    res.json(favoritoByIdFormatted);
 }
 
 export const getFavoriteByUser = async (req:Request, res:Response) : Promise<any> => {
@@ -29,9 +34,11 @@ export const getFavoriteByUser = async (req:Request, res:Response) : Promise<any
     });
     if (!favoritoByUser) 
     {
-        return res.status(404).json({ message:"El usuario no posee favoritos"});      
+        return res.status(404).json({code:0, message:"El usuario no posee favoritos"});      
     }
-    res.json(favoritoByUser);
+    const favoritoByUserFormatted = {code:1, data:favoritoByUser, favoritoCount:favoritoByUser.length}
+
+    res.json(favoritoByUserFormatted);
 }
 
 export const updateFavorite = async (req:Request, res:Response) :Promise <any> => {
@@ -43,12 +50,11 @@ export const updateFavorite = async (req:Request, res:Response) :Promise <any> =
             where: { id },
             data : dataBody,
         })    
-        res.json({code:1, message: "Se actualizo el favorito", favorito});
+        res.json({code:1, message: "Se actualizó el favorito", updatedData:favorito, updatedFields:Object.keys(dataBody)});
 
     } catch (error) 
     {
-        return res.status(404).json({ message: "Error al realizar el update de favorito" });
-    
+        return res.status(404).json({code:0,message: "Error al realizar el update de favorito" });
     }
 }
 
@@ -60,12 +66,11 @@ export const createFavorite = async (req:Request, res:Response) :Promise <any> =
         const favorito = await prisma.favoritos.create({
             data : dataBody
         })    
-        res.json({code:1, message: "Se agrego el favorito", favorito});
+        res.json({code:1, message: "Se agregó el favorito", data:favorito});
 
     } catch (error) 
     {
-        return res.status(404).json({ message: "Error al realizar el agregado de favorito" });
-    
+        return res.status(404).json({code:0,message: "Error al realizar el agregado de favorito"});
     }
 }
 
@@ -77,7 +82,7 @@ export const deleteFavorite = async (req: Request, res: Response) : Promise<any>
         where: { id }
       })
 
-      res.json({code:1, message: "Se elimina el favorito", favorito});
+      res.json({code:1, message: "Se elimina el favorito", deletedData:favorito});
 
     } catch (error) {
       return res.status(404).json({code: 0,  message: "Error al realizar el delete de favorito" });
