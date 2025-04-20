@@ -8,6 +8,7 @@ import propiedadesRoutes from "./routes/propiedades.routes";
 import favoritosRoutes from "./routes/favoritos.routes";
 import busquedasRouter from "./routes/busquedas.routes";
 import chatRoutes from "./routes/chat.routes";
+import subsRoutes from "./routes/subs.routes"
 
 
 
@@ -25,6 +26,8 @@ app.use("/api", propiedadesRoutes);
 app.use("/api", favoritosRoutes);
 app.use("/api", busquedasRouter);
 app.use("/api", chatRoutes);
+app.use("/api", subsRoutes);
+
 
 const PORT = process.env.PORT || 5000;
 
