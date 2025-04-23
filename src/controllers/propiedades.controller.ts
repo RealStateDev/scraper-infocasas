@@ -1,14 +1,36 @@
 import { Request, Response } from "express";
 import prisma from "../prisma";
 
-export const getAllProperties = async (_req: Request, res: Response) : Promise<any>=> {
-    const propiedades = await prisma.propiedades.findMany();
-    if (!propiedades) {
-      return res.status(404).json({code:0, message: "No hay propiedades en la base de datos" });
-    }
-    const propiedadesFormatted = {code:1, propiedadesList:propiedades, propiedadesCount:propiedades.length};
-    res.json(propiedadesFormatted);
-}
+export const getAllProperties = async (req: Request, res: Response): Promise<any> => {
+  //parámetros
+  const page = parseInt(req.query.page as string) || 1;     
+  const limit = parseInt(req.query.limit as string) || 10;
+  const skip = (page - 1) * limit;
+
+  const total = await prisma.propiedades.count();
+
+  if (total === 0) {
+    return res.status(404).json({ code: 0, message: "No hay propiedades en la base de datos" });
+  }
+
+  const propiedades = await prisma.propiedades.findMany({
+    skip,
+    take: limit,
+    orderBy: { id: "desc" },
+  });
+
+  const response = {
+    code: 1,
+    page,
+    perPage: limit,
+    total,
+    totalPages: Math.ceil(total / limit),  
+    propiedadesList: propiedades,
+  };
+
+  res.json(response);
+};
+
 export const getPropertyById = async (req: Request, res: Response) : Promise<any> => {
     const id = parseInt(req.params.id);
     const propiedad = await prisma.propiedades.findUnique({ where: { id } });

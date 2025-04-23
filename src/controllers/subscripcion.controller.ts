@@ -34,11 +34,11 @@ export const getSubsByUser = async (req: Request, res: Response): Promise<void> 
     const id = parseInt(req.params.id);
   
     try {
-      const chat = await prisma.suscripciones.delete({
+      const sub = await prisma.suscripciones.delete({
         where: { id }
       })
   
-      res.json({code:1, message: "Se elimino la sub", deletedData:chat});
+      res.json({code:1, message: "Se eliminó la subscripcion", deletedData:sub});
   
     } catch (error) {
       return res.status(404).json({code: 0,  message: "Error al realizar el delete de la sub" });
