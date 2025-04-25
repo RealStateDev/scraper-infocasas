@@ -15,7 +15,7 @@ export interface SuscripcionInput {
 
 
 
-export const createSubscripcion = async (req: Request, res: Response): Promise<void> => {
+export const createSubscripcion = async (req: Request, res: Response): Promise<any> => {
   try {
     const dataBody: SuscripcionInput = req.body;
     
@@ -46,7 +46,7 @@ export const createSubscripcion = async (req: Request, res: Response): Promise<v
     });
     res.status(201).json({code:1,message: "Subscripción creada", data:subs});
   } catch (error) {
-    console.error("Error al crear subscricion:", error);
+    console.error("Error al crear subscripción:", error);
     res.status(500).json({code:0,message: "Error interno del servidor" });
   }
 };
@@ -79,7 +79,7 @@ export const getSubsByUser = async (req: Request, res: Response): Promise<void> 
       });
       res.status(201).json({code:1, subsList:subs, subsCount:subs.length});
     } catch (error) {
-      console.error("Error al traer las subscriciones:", error);
+      console.error("Error al traer las subscripciones:", error);
       res.status(500).json({code:0,message: "Error interno del servidor" });
     }
   };
@@ -92,7 +92,7 @@ export const getSubsByUser = async (req: Request, res: Response): Promise<void> 
         where: { id }
       })
   
-      res.json({code:1, message: "Se eliminó la subscripcion", deletedData:sub});
+      res.json({code:1, message: "Se eliminó la subscripción", deletedData:sub});
   
     } catch (error) {
       return res.status(404).json({code: 0,  message: "Error al realizar el delete de la sub" });
