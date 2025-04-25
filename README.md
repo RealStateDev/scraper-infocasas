@@ -35,6 +35,14 @@
  >
   
 
+Cuando se modifica el esquema ejecutar:
+
+Luego correr comandos :
+1- npx prisma migrate dev --name add_chat_and_messages
+
+2-npx prisma db push
+
+3-npx prisma generate (editado)
 
 
 
