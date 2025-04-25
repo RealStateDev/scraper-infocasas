@@ -24,7 +24,7 @@ export const createSubscripcion = async (req: Request, res: Response): Promise<a
     let fechaFin : Date | null = null;
     if (dataBody.tipo_facturacion == "mensual") {
       fechaFin = addMonths(fechaInicio, 1);
-    }else if(dataBody.tipo_facturacion == "mensual"){
+    }else if(dataBody.tipo_facturacion == "anual"){
       fechaFin = addYears(fechaInicio, 1);
     }
  
