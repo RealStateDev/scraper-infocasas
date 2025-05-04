@@ -22,6 +22,7 @@ export interface PropertyData {
     comodidades?: string;
     currency?: string;
     ciudad: string;
+    image_url?: string;
   }
 
 export interface SearchParams {

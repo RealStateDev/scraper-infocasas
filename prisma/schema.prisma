@@ -54,6 +54,7 @@ model propiedades {
   favoritos             favoritos[]
   currency              String?
   ciudad                String?
+  image_url              String?
 }
 
 model propiedades_scraping {
@@ -85,6 +86,7 @@ model propiedades_scraping {
   fecha_scraping        DateTime? @default(now()) @db.Timestamp(6)
   currency              String?
   ciudad                String?
+  image_url             String?
 }
 
 model scraping_progreso {
