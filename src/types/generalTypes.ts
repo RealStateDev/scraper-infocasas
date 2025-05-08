@@ -28,6 +28,7 @@ export interface PropertyData {
 export interface SearchParams {
   tranType: TransactionType;
   propType: PropertyType;
+  departamento: DepartamentoList;
   city: CityList;
 }
 
@@ -63,6 +64,25 @@ export type CityList =
   | "limpio"
   | "ita"
   | "san-bernardino";
+
+  export type DepartamentoList = 
+  | "central"
+  | "cordillera"
+  | "misiones"
+  | "itapua"
+  | "caaguazu"
+  | "caazapa"
+  | "canindeyu"
+  | "guaira"
+  | "presidente-hayes"
+  | "alto-paraguay"
+  | "amambay"
+  | "san-pedro"
+  | "ñeembucu"
+  | "alto-parana"
+  | "concepcion"
+  | "boqueron"
+  | "paraguari";
 
   declare global {
     namespace Express {

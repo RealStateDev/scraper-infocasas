@@ -15,7 +15,7 @@ export const startScraping = async (req: Request, res: Response) => {
 
     const serviceParams: SearchParams = body;
 
-    const searchParams: ScrapigUrl = new ScrapigUrl(serviceParams.tranType,serviceParams.city, serviceParams.propType);
+    const searchParams: ScrapigUrl = new ScrapigUrl(serviceParams.tranType,serviceParams.city, serviceParams.departamento,serviceParams.propType);
     
 
     const props = await scrapeMultiplePages(start, end, searchParams);
