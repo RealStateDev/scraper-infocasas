@@ -4,7 +4,7 @@ import prisma from "../prisma";
 // Crear un nuevo chat
 export const createChat = async (req: Request, res: Response): Promise<void> => {
   try {
-    const usuario_id = req.user ? (req.user as any).userId : null;
+    const usuario_id = req.body ? req.body.usuario_id : null;
     const chat = await prisma.chats.create({
       data: {
         usuario_id,
