@@ -19,7 +19,6 @@
 *Si se abre el prisma estudio, la conexion con la base de datos fue exitosa.*
 
 #### Iniciar el Servidor Express.js local:   
-> Ejecutar comando:
 * npx ts-node src/server.ts
 
 #### Probar la api:   

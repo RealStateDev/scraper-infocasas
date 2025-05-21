@@ -1,8 +1,8 @@
+// routes/scraping.routes.ts
 import { Router } from "express";
-import { startScraping } from "../controllers/scraping.controller";
-
+import { startFullScraping } from "../controllers/scraping.controller";
 const router = Router();
 
-router.get("/start", startScraping);
+router.post("/scrapear-infocasas", startFullScraping);
 
 export default router;

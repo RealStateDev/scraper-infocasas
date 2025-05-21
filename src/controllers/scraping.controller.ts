@@ -1,29 +1,16 @@
+// controllers/scraping.controller.ts
 import { Request, Response } from "express";
-import { scrapeMultiplePages } from "../services/scraping.service";
-import { SearchParams } from "../types/generalTypes";
-import { ScrapigUrl } from "../types/URLs";
+import { scrapeAllPagesAndSave } from "../services/scraping.service";
 
+export const startFullScraping = async (req: Request, res: Response) => {
+  // Lee parámetros si querés, ej: ciudad, rango de páginas, etc.
+  const { startPage = 1, endPage = 3 } = req.body;
 
+  // Dispara el scraping en background SIN AWAIT
+  scrapeAllPagesAndSave(startPage, endPage)
+    .then(() => console.log("Scraping terminado."))
+    .catch((err) => console.error("Error scraping:", err));
 
-
-export const startScraping = async (req: Request, res: Response) => {
-  try {
-    const start = parseInt(req.query.start as string) || 2;
-    const end = parseInt(req.query.end as string) || 2;
-
-    const body = req.body;
-
-    const serviceParams: SearchParams = body;
-
-    const searchParams: ScrapigUrl = new ScrapigUrl(serviceParams.tranType,serviceParams.city, serviceParams.departamento,serviceParams.propType);
-    
-
-    const props = await scrapeMultiplePages(start, end, searchParams);
-
-    res.json({ message: "Scraping e inserción completados", total: props.length });
-  } catch (error) {
-    console.error("❌ Error en el scraping:", error);
-    res.status(500).json({ error: "Error en el scraping" });
-  }
+  // Responde rápido
+  res.status(202).json({ message: "Scraping iniciado. El proceso sigue en background." });
 };
-
