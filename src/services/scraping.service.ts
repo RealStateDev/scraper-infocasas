@@ -1,9 +1,14 @@
-// services/scraping.service.ts
 import puppeteer from "puppeteer";
 import prisma from "../prisma";
 import { PropertyData } from "../types/generalTypes";
+import { ScrapigUrl } from "../types/URLs";
+import { TransactionType, PropertyType, CityList, DepartamentoList} from "../types/generalTypes";
 
-export const scrapeAllPagesAndSave = async (startPage = 1, endPage = 3) => {
+export const scrapeAllPagesAndSave = async (endPage = 3, tranType: TransactionType, propType: PropertyType, city: CityList, departamento: DepartamentoList) => {
+
+  const URL = new ScrapigUrl(tranType, city, departamento, propType).getUrl;
+  console.log("URL",URL);
+
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.setUserAgent(
@@ -11,8 +16,7 @@ export const scrapeAllPagesAndSave = async (startPage = 1, endPage = 3) => {
   );
   await page.setViewport({ width: 1280, height: 800 });
 
-  // === PRIMERA FASE: Junta todos los links de propiedades ===
-  await page.goto("https://www.infocasas.com.py/venta/inmuebles/asuncion", { waitUntil: "domcontentloaded" });
+  await page.goto(URL,{waitUntil: "domcontentloaded"});
 
   let currentPage = 1;
   const allPropertyUrls: Set<string> = new Set();
@@ -60,7 +64,6 @@ export const scrapeAllPagesAndSave = async (startPage = 1, endPage = 3) => {
     currentPage++;
   }
 
-  // === SEGUNDA FASE: Scrapea y guarda cada propiedad en la BD ===
   for (const url of allPropertyUrls) {
     try {
       await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
@@ -118,6 +121,7 @@ export const scrapeAllPagesAndSave = async (startPage = 1, endPage = 3) => {
         currency: currencySymbol,
         ciudad: "", // puedes ajustar según tu lógica
         image_url: property.img || "no data",
+        trans_type : tranType
       };
 
       await prisma.propiedades_scraping.create({

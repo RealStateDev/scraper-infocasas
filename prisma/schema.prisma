@@ -54,7 +54,8 @@ model propiedades {
   favoritos             favoritos[]
   currency              String?
   ciudad                String?
-  image_url              String?
+  image_url             String?
+  trans_type            String?
 }
 
 model propiedades_scraping {
@@ -87,6 +88,7 @@ model propiedades_scraping {
   currency              String?
   ciudad                String?
   image_url             String?
+  trans_type            String?
 }
 
 model scraping_progreso {

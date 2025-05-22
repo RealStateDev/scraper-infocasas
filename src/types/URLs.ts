@@ -17,11 +17,11 @@ export class ScrapigUrl {
   get getUrl() {
     if (this.city == 'asuncion') 
     {
-      return  `https://www.infocasas.com.py/${this.type}/${this.propertyType}/${this.city}`;
+      return  `https://www.infocasas.com.py/${this.type}/${this.propertyType}/${this.city}?&ordenListado=3`;
     }
     else 
     {
-      return  `https://www.infocasas.com.py/${this.type}/${this.propertyType}/${this.departamento}/${this.city}` 
+      return  `https://www.infocasas.com.py/${this.type}/${this.propertyType}/${this.departamento}/${this.city}?&ordenListado=3` 
     }
   }
 }

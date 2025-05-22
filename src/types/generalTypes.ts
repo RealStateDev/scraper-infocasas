@@ -23,6 +23,7 @@ export interface PropertyData {
     currency?: string;
     ciudad: string;
     image_url?: string;
+    trans_type?: string;
   }
 
 export interface SearchParams {
