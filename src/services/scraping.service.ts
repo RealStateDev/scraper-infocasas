@@ -38,7 +38,8 @@ export const scrapeAllPagesAndSave = async (endPage = 3, tranType: TransactionTy
 
     propertyUrls.forEach(url => allPropertyUrls.add(url));
 
-    // Pagina siguiente
+    // Next Page
+  
     if (currentPage < endPage) {
       await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
       await page.waitForSelector("ul.search-results-pagination", { timeout: 10000 });
@@ -119,7 +120,7 @@ export const scrapeAllPagesAndSave = async (endPage = 3, tranType: TransactionTy
         url: `https://www.infocasas.com.py/${property.link}`,
         comodidades: facilities.map((f: any) => apollo[f.__ref]?.name).join(", "),
         currency: currencySymbol,
-        ciudad: "", // puedes ajustar según tu lógica
+        ciudad: city, 
         image_url: property.img || "no data",
         trans_type : tranType
       };
