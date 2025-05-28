@@ -10,6 +10,7 @@ interface RegisterInput {
   email: string;
   password: string;
   fecha_nacimiento: string;
+  genero: string;
 }
 
 interface LoginInput {
@@ -17,7 +18,7 @@ interface LoginInput {
   password: string;
 }
 
-export const register = async ({ nombre, email, password, fecha_nacimiento }: RegisterInput) => {
+export const register = async ({ nombre, email, password, fecha_nacimiento,genero }: RegisterInput) => {
   const existingUser = await prisma.usuarios.findUnique({ where: { email } });
 
   if (existingUser) {
@@ -27,7 +28,7 @@ export const register = async ({ nombre, email, password, fecha_nacimiento }: Re
   const password_hash = await bcrypt.hash(password, SALT_ROUNDS);
 
   const newUser = await prisma.usuarios.create({
-    data: { nombre, email, password_hash, fecha_nacimiento },
+    data: { nombre, email, password_hash, fecha_nacimiento,genero },
   });
 
   return { message: "Usuario registrado correctamente", userId: newUser.id };

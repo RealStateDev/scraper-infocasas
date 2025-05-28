@@ -121,7 +121,8 @@ model usuarios {
   favoritos      favoritos[]
   suscripciones  suscripciones[]
   chats          chats[]
-  fecha_nacimiento String?       
+  fecha_nacimiento String?
+  genero         String?
 }
 
 
