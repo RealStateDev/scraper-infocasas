@@ -9,6 +9,8 @@ import favoritosRoutes from "./routes/favoritos.routes";
 import busquedasRouter from "./routes/busquedas.routes";
 import chatRoutes from "./routes/chat.routes";
 import subsRoutes from "./routes/subs.routes"
+import nl2sqlRoutes from "./routes/nl2sql.routes";
+import openaiChatRoutes from "./routes/openaiChat.routes";
 
 
 
@@ -27,6 +29,8 @@ app.use("/api", favoritosRoutes);
 app.use("/api", busquedasRouter);
 app.use("/api", chatRoutes);
 app.use("/api", subsRoutes);
+app.use("/api", nl2sqlRoutes); 
+app.use("/api", openaiChatRoutes);
 
 
 const PORT = process.env.PORT || 5000;
