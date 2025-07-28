@@ -11,7 +11,7 @@ import chatRoutes from "./routes/chat.routes";
 import subsRoutes from "./routes/subs.routes"
 import nl2sqlRoutes from "./routes/nl2sql.routes";
 import openaiChatRoutes from "./routes/openaiChat.routes";
-import intentRoutes from "./routes/intent.routes";
+import intentRoutes from "./routes/intentRoutes";
 
 
 
@@ -35,7 +35,7 @@ app.use("/api", openaiChatRoutes);
 app.use("/api", intentRoutes);
 
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 
 app.listen(PORT, () => {
   console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
