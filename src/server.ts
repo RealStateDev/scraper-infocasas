@@ -12,6 +12,7 @@ import subsRoutes from "./routes/subs.routes"
 import nl2sqlRoutes from "./routes/nl2sql.routes";
 import openaiChatRoutes from "./routes/openaiChat.routes";
 import intentRoutes from "./routes/intentRoutes";
+import { chatPlannerRouter } from "./routes/chatPlanner.routes";;
 
 
 
@@ -33,6 +34,7 @@ app.use("/api", subsRoutes);
 app.use("/api", nl2sqlRoutes);
 app.use("/api", openaiChatRoutes);
 app.use("/api", intentRoutes);
+app.use("/api/chat", chatPlannerRouter)
 
 
 const PORT = process.env.PORT || 4000;

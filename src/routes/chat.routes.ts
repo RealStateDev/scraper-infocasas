@@ -5,7 +5,7 @@ import {
   getChatHistory,
   getChatsByUser,
   deleteChat,
-  sendAndAnswer
+  //sendAndAnswer
 } from "../controllers/chat.controller";
 import { verifyToken } from "../middleware/verifyToken";
 
@@ -28,6 +28,6 @@ router.get("/chatsByUser/:userId", getChatsByUser);
 router.delete("/chats/:id", deleteChat);
 
 //Enviar mensaje y recibir respuesta del bot (OpenAI) en un solo paso
-router.post("/chats/:id/send", sendAndAnswer);
+//router.post("/chats/:id/send", sendAndAnswer);
 
 export default router;
