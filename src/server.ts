@@ -34,7 +34,7 @@ app.use("/api", subsRoutes);
 app.use("/api", nl2sqlRoutes);
 app.use("/api", openaiChatRoutes);
 app.use("/api", intentRoutes);
-app.use("/api/chat", chatPlannerRouter)
+app.use("/api/chat", chatPlannerRouter);
 
 
 const PORT = process.env.PORT || 4000;

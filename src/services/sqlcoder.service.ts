@@ -1,7 +1,7 @@
 /*
 esto convierte una pregunta en lenguaje natural a SQL (SELECT) usando el endpoint SQLCoder.
 */
-const BASE_URL = process.env.SQLCODER_BASE_URL || "http://192.168.0.3:8000";
+const BASE_URL = "http://localhost:8000/generate-sql/"
 
 export async function fromTextToSql(question: string): Promise<string> {
   if (!question || typeof question !== "string") {
@@ -10,7 +10,7 @@ export async function fromTextToSql(question: string): Promise<string> {
 
   let response: Response;
   try {
-    response = await fetch(`${BASE_URL}/generate-sql/`, {
+    response = await fetch(`${BASE_URL}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question }),
@@ -30,15 +30,15 @@ export async function fromTextToSql(question: string): Promise<string> {
   }
 
   // La respuesta es un string puro (ej: "SELECT ...")
-  const rawText = await safeReadText(response);
+  // const rawText = await safeReadText(response);
 
-  if (typeof rawText !== "string" || rawText.length === 0) {
-    throw new Error("Formato inesperado: la API no devolvió un string");
-  }
+  // if (typeof rawText !== "string" || rawText.length === 0) {
+    // throw new Error("Formato inesperado: la API no devolvió un string");
+  // }
 
-  const sanitized = sanitizeSql(rawText);
-  const withLimit = ensureLimit(sanitized, 50);
-  return withLimit;
+  // const sanitized = sanitizeSql(rawText);
+  // const withLimit = ensureLimit(sanitized, 50);
+  return (await response.json()).sql_query;
 }
 
 /* -------- Helpers -------- */
@@ -91,7 +91,7 @@ function sanitizeSql(sql: string): string {
   return s;
 }
 
-function ensureLimit(sql: string, defaultLimit: number): string {
+/*function ensureLimit(sql: string, defaultLimit=2): string {
   if (/LIMIT\s+\d+/i.test(sql)) return sql;
   return `${sql} LIMIT ${defaultLimit}`;
-}
+}*/

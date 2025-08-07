@@ -20,8 +20,9 @@ export const slotTool: ChatCompletionTool = {
       properties: {
         transaction: {
           type: "string",
-          enum: ["venta", "alquiler"]
-        },
+          enum: ["venta", "alquiler"],
+          description: "Tipo de transacción. NO puede ser null. Si no lo sabes todavía, pregunta."
+  },
         property_type: {
           type: "string",
           enum: [
@@ -55,7 +56,7 @@ export async function askChatPlanner(
     messages,
     tools: [slotTool],
     temperature: 0.3,
-    response_format: { type: "json_object" }
+    //response_format: { type: "json_object" }
   });
 
   return completion.choices[0]; // devolvemos solo la primera choice

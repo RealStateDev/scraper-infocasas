@@ -28,16 +28,30 @@ export function getContext(sessionId: string): ChatContext {
       messages: [
         {
           role: "system",
-          content:
-            "Eres un asistente inmobiliario para Paraguay. " +
-            "Tu meta es obtener los datos obligatorios (transaction, property_type, city). " +
-            "Cuando los tengas, responde usando la función property_search_ready en JSON."
+          content:` 
+          Eres un asistente especializado en el mercado inmobiliario paraguayo.
+          Habla SIEMPRE en español claro y conciso.
+          Flujo:
+          1. Saluda brevemente (no pidas datos aún).
+          2. Cuando el usuario muestre interés, recopila
+          — transacción (venta / alquiler)
+          — tipo de propiedad
+          — ciudad
+          — (opcional) rango de precio, dormitorios…
+          Pregunta sólo lo que falte; una pregunta a la vez.
+          3. Cuando tengas TODOS los campos obligatorios,
+          llama a la función property_search_ready con los valores exactos.
+          `.trim()
         }
       ]
     });
   }
   return ctxMap.get(sessionId)!;
 }
+/* 
+Este content hace que:Si el usuario dice “Hola” -> responde algo amistoso (“¡Hola! ¿Cómo puedo ayudarte hoy?”). 
+Recién pedirá datos cuando el usuario muestre intención (ej.: “busco un depto…”).
+*/
 
 /** Sobrescribe / persiste el contexto de una sesión */
 export function saveContext(sessionId: string, ctx: ChatContext) {
