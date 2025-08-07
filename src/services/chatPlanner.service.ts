@@ -3,8 +3,8 @@ import { ChatCompletionTool } from "openai/resources/index";
 
 // 1) Instancia global — evita recrearla en cada request
 export const openai = new OpenAI({
-  //apiKey: process.env.OPENAI_API_KEY
-  apiKey: "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"
+  apiKey: process.env.OPENAI_API_KEY
+  //apiKey: "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"
 });
 
 // 2) Definición de la única “function”
