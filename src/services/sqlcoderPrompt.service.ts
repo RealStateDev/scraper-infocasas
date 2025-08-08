@@ -7,8 +7,10 @@ const COL_MAP: Record<string, string> = {
   city: "ciudad",
 };
 
+
+//esto quitar ya que esta haciendo manualmente
 export function buildSqlPrompt(slots: PropertySearchSlots, extra?: string) {
-  const conds: string[] = [];
+  /*const conds: string[] = [];
 
   Object.entries(slots).forEach(([key, val]) => {
     if (val == null) return;
@@ -40,5 +42,6 @@ SELECT * FROM propiedades
 WHERE ${conds.join(" AND ")};
 
 ${extra ? `-- contexto extra: ${extra.replace(/\n+/g, " ")}` : ""}
-Devuelve sólo la consulta.`;
+Devuelve sólo la consulta.
+`;*/
 }

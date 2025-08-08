@@ -28,8 +28,33 @@ export async function simpleAskOpenAI(userMessage: string): Promise<string> {
   return response.choices[0].message?.content || "";
 }
 
-/*export async function resumeConversationAndGeneratePrompt(messages: { role: "user" | "assistant" | "system"; content: string }[]): Promise<string> {
+
+
+/*
+Aca hay que mejorar dos cosas muy importantes para que funcione como debe, 
+primero el prompt hay que hacerlo mas especifico y ajustado a lo que se necesita.
+
+y el segundo es que para que el gpt haga bien su trabajo de ser muy inteligente, o sea
+debes poner uno de los modelos mas potentes de openai, porque sino, no va a resumir bien
+
+ahora mismo genera esto: (3 habitaciones en luque un derpamento para alquilar)
+
+`Entendido. Aquí tienes el prompt basado en la conversación:
+
+---
+
+Eres un asistente de recomendación de propiedades inmobiliarias en Paraguay. El usuario busca alquilar un departamento en Luque que tenga exactamente 3 habitaciones. No tiene un rango de precio específico ni otras preferencias adicionales. Genera una consulta que devuelva propiedades que cumplan con estos criterios: ubicación en Luque, tipo de propiedad: departamento, modalidad: alquiler, número de habitaciones: 3. No incluyas filtros adicionales a menos que sean mencionados explícitamente por el usuario.
+
+---
+
+¿Quieres que te ayude a convertir este prompt en una consulta SQL?`
+
+
+el query que devolvio: "SELECT * FROM public.propiedades p WHERE p.zona ilike '%Luque%' AND p.tipo_propiedad ilike '%departamento%' AND p.trans_type ilike '%alquiler%' AND p.dormitorios = 3;"
+*/
+export async function resumeConversationAndGeneratePrompt(messages: { role: "user" | "assistant" | "system"; content: string }[]): Promise<string> {
   // Mensaje del sistema (rol)
+  //mejorar este prompt, pero hacerlo super bien
   const systemPrompt = 
   `
     Eres un asistente que va a tomar esta conversacion y realizar un prompt que luego va
@@ -49,4 +74,4 @@ export async function simpleAskOpenAI(userMessage: string): Promise<string> {
   });
 
   return response.choices[0].message?.content || "";
-}*/
+}

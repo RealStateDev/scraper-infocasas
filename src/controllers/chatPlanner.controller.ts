@@ -5,6 +5,7 @@ import { PropertySearchSlots } from "../types/PropertySearchSlots";
 import { buildSqlPrompt } from "../services/sqlcoderPrompt.service";   // ← NUEVO
 import { fromTextToSql } from "../services/sqlcoder.service";
 import prisma from "../prisma";
+import { resumeConversationAndGeneratePrompt } from "../services/chatOpenAI.service";
 
 export const postMessage = async (req: any, res: any, next: any) => {
   try {
@@ -44,7 +45,7 @@ export const postMessage = async (req: any, res: any, next: any) => {
       /* Luego ese prompt que va a generar el gpt base, se lo vamos a pasar tal cual al sqlcoder 
       El sql coder nos va a retornar un query
       */
-      const prompt = buildSqlPrompt(slots);
+      const prompt = await resumeConversationAndGeneratePrompt(ctx.messages)
       let query = (await fromTextToSql(prompt)).trim();
       console.log("query", query);
 

@@ -14,8 +14,6 @@ import openaiChatRoutes from "./routes/openaiChat.routes";
 import intentRoutes from "./routes/intentRoutes";
 import { chatPlannerRouter } from "./routes/chatPlanner.routes";;
 
-
-
 dotenv.config();
 
 const app = express();
