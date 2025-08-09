@@ -80,10 +80,10 @@ export const scrapeAllPagesAndSave = async (endPage = 3, tranType: TransactionTy
 
       const getFromSheet = (field: string): string | undefined =>
         property.technicalSheet?.find((x: any) => x.field === field)?.value;
-
-      const propType = getFromSheet("property_type_name") || property.property_type?.name;
-      const esDepartamento = propType === "Departamento";
-      const esCasa = propType === "Casa";
+      
+      const propTypeSheet = getFromSheet("property_type_name") || property.property_type?.name;
+      const esDepartamento = propTypeSheet === "Departamento";
+      const esCasa = propTypeSheet === "Casa";
       const currency_ref = property.price?.currency?.__ref;
       const currencySymbol = currency_ref === "Currency:1" ? "U$S" : "Gs.";
 
