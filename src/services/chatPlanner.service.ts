@@ -13,6 +13,7 @@ export const slotTool: ChatCompletionTool = {
   function: {
     name: "property_search_ready",
     description:
+    //mejorar
       "Usa esta función SOLO cuando ya conozcas todos los criterios " +
       "obligatorios para lanzar la búsqueda de propiedades.",
     parameters: {
@@ -49,7 +50,7 @@ export const slotTool: ChatCompletionTool = {
 // 3) Utilidad para preguntar al modelo “planner”
 export async function askChatPlanner(
   messages: { role: "user" | "assistant" | "system"; content: string }[],
-  model = "gpt-4.1-nano" 
+  model = "gpt-4.1-mini" 
 ) {
   const completion = await openai.chat.completions.create({
     model,

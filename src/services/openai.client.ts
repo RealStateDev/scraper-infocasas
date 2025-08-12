@@ -8,6 +8,6 @@ export const openai = new OpenAI({
 });
 
 export const OPENAI_MODEL =
-  process.env.OPENAI_MODEL || "gpt-4.1-nano";
+  process.env.OPENAI_MODEL || "gpt-4.1-mini";
 export const OPENAI_TEMPERATURE =
   Number(process.env.OPENAI_TEMPERATURE ?? 0.2);

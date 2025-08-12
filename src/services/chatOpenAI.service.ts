@@ -7,8 +7,7 @@ import { openai, OPENAI_MODEL, OPENAI_TEMPERATURE } from "./openai.client";
 
 export async function simpleAskOpenAI(userMessage: string): Promise<string> {
   // Mensaje del sistema (rol)
-  const systemPrompt = 
-  `
+  const systemPrompt = `
     Eres un asistente especializado en el mercado inmobiliario paraguayo.
     Responde SIEMPRE en español, claro, conciso y útil.
     Si faltan datos, pide aclaraciones.
@@ -21,14 +20,12 @@ export async function simpleAskOpenAI(userMessage: string): Promise<string> {
     temperature: OPENAI_TEMPERATURE,
     messages: [
       { role: "system", content: systemPrompt },
-      { role: "user", content: userMessage }
-    ]
+      { role: "user", content: userMessage },
+    ],
   });
 
   return response.choices[0].message?.content || "";
 }
-
-
 
 /*
 Aca hay que mejorar dos cosas muy importantes para que funcione como debe, 
@@ -52,25 +49,35 @@ Eres un asistente de recomendación de propiedades inmobiliarias en Paraguay. El
 
 el query que devolvio: "SELECT * FROM public.propiedades p WHERE p.zona ilike '%Luque%' AND p.tipo_propiedad ilike '%departamento%' AND p.trans_type ilike '%alquiler%' AND p.dormitorios = 3;"
 */
-export async function resumeConversationAndGeneratePrompt(messages: { role: "user" | "assistant" | "system"; content: string }[]): Promise<string> {
+export async function resumeConversationAndGeneratePrompt(
+  messages: { role: "user" | "assistant" | "system"; content: string }[]
+): Promise<string> {
   // Mensaje del sistema (rol)
   //mejorar este prompt, pero hacerlo super bien
-  const systemPrompt = 
-  `
+  /*-- FECHA 8/
+  devuelve 3 propiedades en el front
+query SELECT * FROM public.propiedades p WHERE p.trans_type = 'alquiler' AND p.ciudad = 'asuncion' AND p.dormitorios >= 5 AND p.precio IS NOT NULL;
+  */
+  const systemPrompt = `
     Eres un asistente que va a tomar esta conversacion y realizar un prompt que luego va
     tomar otro modelo de lenguaje y lo va a convertir en sql.
 
     Necesito que generes un prompt lo mas fiel a lo ultimo que se mensiona en la conversacion para devolver las propiedades deseadas
     ya que el sistema en el que estas es una aplicacion de recomendacion de propiedades inmobiliarias.
+
+    no debes generar nada mas que el prompt, ni preguntas ni aclaraciones, solo el prompt, ES IMPORTANTE
+
+    especifica la propiedad con el valor, por ejemplo:
+    alquiler tipo de transaccion, en la ciudad de luque, en la zona del barrio laurelty con 8 dormitorios etc...
     `.trim();
 
   const response = await openai.chat.completions.create({
     model: OPENAI_MODEL,
     temperature: OPENAI_TEMPERATURE,
     messages: [
-      ...(messages.slice(1, messages.length)),
-      { role: "system", content: systemPrompt }
-    ]
+      ...messages.slice(1, messages.length),
+      { role: "system", content: systemPrompt },
+    ],
   });
 
   return response.choices[0].message?.content || "";
